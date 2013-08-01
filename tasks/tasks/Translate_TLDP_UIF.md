@@ -1,9 +1,8 @@
 
-Translate Unix-and-Internet-Fundamentals-HOWTO into your native language
-========================================================================
+Translate _Unix and Internet Fundamentals HOWTO_ into your native language
+==========================================================================
 
 Source text:
-
 http://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html
 
 
