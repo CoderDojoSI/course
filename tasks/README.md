@@ -11,4 +11,5 @@ Research
 
 Online Course
 -------------
-* [Power Searching With Google](Power_searching_with_Google.md)
+* [Power Searching With Google](tasks/Power_searching_with_Google.md)
+* [Touch Typing](tasks/Learn_touch_typing.md)
