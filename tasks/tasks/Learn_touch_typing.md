@@ -13,12 +13,12 @@ Task
 Complete one (or more) of these courses:
 * http://www.typingweb.com/typingtutor/
 * http://www.typingstudy.com/
+* http://www.sense-lang.org/typing/tutor/lessons.php?lang=EN&lesson=40
 
-After the course, you can play these games:
+Only after the course, you can win at playing these games:
 * http://games.sense-lang.org/
 
 
 What you will acquire
 ---------------------
 * Touch-typing skills that will make you a more efficient computer user
-
