@@ -8,3 +8,7 @@ Read/Translate
 Research
 --------
 * [Find a SLOC](tasks/Find_a_SLOC.md)
+
+Online Course
+-------------
+* [Power Searching With Google](Power_searching_with_Google.md)
