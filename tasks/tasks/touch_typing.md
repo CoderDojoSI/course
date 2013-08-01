@@ -6,7 +6,7 @@ In order to become an efficient programmer, you need to write code.
 Lots of code.
 
 In order to write lots of code in just the least amount of time, you need to learn to type fast and don't look for correct keys while typing.
-You need to become one with your keyboard.
+You need to become _one with your keyboard_.
 
 Task
 ----

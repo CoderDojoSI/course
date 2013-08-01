@@ -20,4 +20,4 @@ Online Course
 
 Programming
 -----------
-* [Learn Python](tasks/learn-python.md)
+* [Learn Python](tasks/learn_python.md)

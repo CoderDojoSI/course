@@ -15,7 +15,7 @@ you trace such bugs in the future:
 ```
 TypeError: expected string or buffer; got <type> instead
 ```
-You decide to submit a _bug report_ (or a _wishlist item_, since your report
+You decide to submit a **bug report** (or a _wishlist item_, since your report
 is about a _feature extension_) against the Python interpreter (CPython)
 source tree, so the project maintainers can fix it.
 
