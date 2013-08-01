@@ -1,9 +1,13 @@
 Do any of these tasks to earn points...
 =======================================
 
+Basics
+------
+* [Create an e-mail address](tasks/create_email_address.md)
+
 Read/Translate
 --------------
-* [Unix and Internet Fundamentals How-to](tasks/Translate_TLDP_UIF.md)
+* [Unix and Internet Fundamentals How-to](tasks/translate_TLDP_UIF.md)
 
 Research
 --------
@@ -11,5 +15,9 @@ Research
 
 Online Course
 -------------
-* [Power Searching With Google](tasks/Power_searching_with_Google.md)
-* [Touch Typing](tasks/Learn_touch_typing.md)
+* [Power Searching With Google](tasks/power_searching_google.md)
+* [Learn touch typing](tasks/touch_typing.md)
+
+Programming
+-----------
+* [Learn Python](tasks/learn-python.md)
