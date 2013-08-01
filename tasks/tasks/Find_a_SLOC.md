@@ -1,8 +1,7 @@
-
 Find a SLOC
 ===========
 
-You Python interpreter says:
+Your Python interpreter says:
 ```
 Traceback (most recent call last):
   File "my_project.py", line 102, in <module>
@@ -10,9 +9,9 @@ Traceback (most recent call last):
 TypeError: expected string or buffer
 ```
 While you obviously passed an object of wrong type to `re.match` function,
-you want to know of what type. You fix the error in your source code, but
-you figure a more verbose TypeError message would help you trace such bugs
-in the future:
+you want to know of what type exactly. You finally fix the error in your 
+source code, but you figure a more verbose TypeError message would help 
+you trace such bugs in the future:
 ```
 TypeError: expected string or buffer; got <type> instead
 ```
