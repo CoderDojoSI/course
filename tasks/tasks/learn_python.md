@@ -30,7 +30,7 @@ Bear in mind that any **feedback you should provide to to your instructors**
 will help them pick better tutorials for you in the future.
 
 Only after you have _completed_ at least one of the above tutorials, you can
-deepen your knowledge (an earn extra points) by choosing at least one of these:
+deepen your knowledge (and earn extra points!) by choosing at least one of these:
 * [py4fun: Building a GUI Application with Tkinter](http://www.openbookproject.net/py4fun/gui/tkPhone.html)
 * [py4fun: Programming a video game](http://www.openbookproject.net/py4fun/lode/lode.html)
 * [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/)
