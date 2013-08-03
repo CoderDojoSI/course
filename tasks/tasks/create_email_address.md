@@ -28,6 +28,22 @@ You may wish to **read the following guides** first:
 Then [create a new Google account](https://accounts.google.com/SignUp)
 if you haven't already.
 
+Confirm completion of this task by sending an email to
+`coderdojo-instructors@coderdojo.si` with the subject line `New recruit reporting`
+and message text:
+```
+Hi,
+My name is <YOUR FULL NAME>, I come from <YOUR CITY>, <COUNTRY>, and I will be
+attending future CoderDojo events. This written statement is considered a contract
+and is binding as permitted by applicable law.
+
+My e-mail is: <YOUR EMAIL ADDRESS>
+
+Best Regards
+```
+The email must be exactly as shown, otherwise it won't be accepted. You have one
+shot at this. It is very complicated. You have been warned.
+
 What you will acquire
 ---------------------
 * A basis of all other online activity.
