@@ -16,9 +16,10 @@ Task
 ----
 _Complete_ any of the following courses (or complete several for more points!):
 * [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
-* [A Byte of Python](http://swaroopch.com/notes/python/) book (only Chapters 8–17 apply)
+* [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/html/index.html)
 * [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/index.html)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+* [A Byte of Python](http://swaroopch.com/notes/python/) (Chapters 8–17 apply)
 * [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html)
 
 You are advised to first **take the time to** skim through all the tutorials and
@@ -34,18 +35,19 @@ or if you don't completely understand what your Python code is doing,
 see if you can help yourself by using this
 [Python Tutor Visualization tool](http://www.pythontutor.com/visualize.html).
 
-Only after you have _completed_ at least one of the above tutorials, you can
-deepen your knowledge (not to mention earn extra points!) by completing also at least one of these:
+Only _after you have completed_ at least one of the above tutorials, you can
+deepen your knowledge (not to mention earn extra points!) by completing also at least any one of these:
+* [Beginning Game Programming for Teens with Python](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python)
+* [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/)
 * [py4fun: Building a GUI Application with Tkinter](http://www.openbookproject.net/py4fun/gui/tkPhone.html)
 * [py4fun: Programming a video game](http://www.openbookproject.net/py4fun/lode/lode.html)
-* [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/)
 
 Note that you should always write your Python code mostly conformant to 
 [PEP-8 style guide](http://www.python.org/dev/peps/pep-0008/), and **preferrably 
 in English** (when naming variables, classes, ...).
 
 Finally, you should read [The Zen of Python](http://www.python.org/dev/peps/pep-0020/), 
-and see if you can explain any of the contained koans.
+and see if you can now explain any of the contained koans.
 
 What you will acquire
 ---------------------
