@@ -21,3 +21,4 @@ Online Course
 Programming
 -----------
 * [Learn Python](tasks/learn_python.md)
+* [Beginning Game Programming for Teens with Python](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python)
