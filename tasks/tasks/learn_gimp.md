@@ -1,15 +1,31 @@
-Learn GIMP
-==========
+Photoshop images with the GiMP
+==============================
 
-[GIMP](http://www.gimp.org/) stands for GNU Image Manipulation Program.
-Unlike more known Photoshop it is free to use and has similar capabilities.
+The [GiMP](http://www.gimp.org/) stands for [GNU](http://www.gnu.org/philosophy/philosophy.html) Image Manipulation Program.
+Unlike Adobe's Photoshop, **GiMP is completely free to use** for any purpose, 
+and it has similar (but superior) capabilities.
 
-Editing images might not be related to programming, but it is a useful skill to have. ( So you can avoid [this](http://oi38.tinypic.com/rjqvc3.jpg). )
+Proficiency in image editing is a useful skill to have.
+You need not become an expert to **draw your own in-game characters** (even if only
+a few [pixels](http://en.wikipedia.org/wiki/Pixel) large), **forge official
+documents**, ~~draw tits on~~tamper with a picture of your best friend, avoid shoops like
+[these](http://knowyourmeme.com/photos/23371-this-looks-shopped), ...
 
-On [this link](http://www.gimp.org/tutorials/) you can find general tutorials for gimp.
+Task
+----
+Your task is to **create a masterpiece**!
 
-You can even cut objects out of the pictures you made and use them in your software. Here is a quick tutorial on how to take pictures that are good for using as textures: [Texture Photography](http://www.hourences.com/tutorials-texture-photography/)
+For starters, you can follow some tutorials that you find interesting:
+* [GiMP Basics - Beginner video tutorial](http://www.youtube.com/watch?v=8LmW5ndnEqw)
+* [GIMPology](http://www.gimpology.com/)
+* http://gimp-tutorials.net/Graffiti-Tutorial
+* http://www.gimp.org/tutorials/
 
-More links:
-- Video Tutorial: [How To Create a Platform Graphic in GIMP (VideoGame Graphics) ](http://www.youtube.com/watch?v=tOkFwGEhQK8)
-- Huge amount of tutorials on [GIMPology](http://www.gimpology.com/)
+**Tip**: You can cut out objects out of existing pictures you have — you don't need to draw them from start.
+
+**Tip**: If you want to make hi-res textures for your future games,
+better learn about [some best practices](http://www.hourences.com/tutorials-texture-photography/).
+
+Show your work. The amount of points you will be awarded will depend on how
+masterpiece-y your creation is. The instructors will evaluate it based on
+overall **complexity**, use of **filters**, number of **layers**, number of steps, **manual brushing**, ...
