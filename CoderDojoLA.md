@@ -72,4 +72,4 @@ Web Development/Programming Tools & Editors
 
 
 =======================================================================================================================
-Most of the links were borrowed from [CoderDojo Los Angeles]http://www.coderdojola.com/coderdojo-la-coding-resources/).
+Most of the links were borrowed from [CoderDojo Los Angeles](http://www.coderdojola.com/coderdojo-la-coding-resources/).
