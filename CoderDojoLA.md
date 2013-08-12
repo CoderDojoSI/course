@@ -1,6 +1,3 @@
-CoderDojo Los Angeles Resources
-======================
-
 Kids Coding Resources
 *********************
 
@@ -49,11 +46,11 @@ Programming Tutorials
 * [Teach Kids Programming - SmallBasic](http://www.teachingkidsprogramming.org/)
 
 Web oriented
+
 * [Code Avangers - Learn HTML, CSS3, JavaScript](http://www.codeavengers.com/)
 * [JavaScript Tutorial - w3Schools.com](http://www.w3schools.com/js/default.asp)
 * [jQuery Tutorial - w3Schools.com](http://www.w3schools.com/jquery/default.asp)
 * [CSS Tutorial - w3Schools.com](http://www.w3schools.com/css/)
-
 
 
 Visual Programming Languages
@@ -72,3 +69,7 @@ Web Development/Programming Tools & Editors
 * [JSBin HTML/Javascript Editor](http://jsbin.com/welcome/1/edit) – HTML editor you can use in your browser and see instant results
 * [JSFiddle HTML Editor](http://jsfiddle.net/) – HTML editor you can use in your browser and see instant results
 * [Mozilla Thimble](https://thimble.webmaker.org/en-US/projects/wrangler/edit)
+
+
+=======================================================================================================================
+Most of the links were borrowed from [CoderDojo Los Angeles]http://www.coderdojola.com/coderdojo-la-coding-resources/).
