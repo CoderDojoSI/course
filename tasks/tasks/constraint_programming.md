@@ -26,14 +26,14 @@ But this is internal to the interpreter. What you should worry about is
 
 For example, if you were to solve a problem of two equations with two variables:
 
-![4*x + 3*y = 10](http://chart.apis.google.com/chart?cht=tx&chl=4\cdot x%2B3\cdot y=12)
+![4*x + 3*y = 10](http://chart.apis.google.com/chart?cht=tx&chl=4%5Ccdot x%2B3%5Ccdot y=10)
 
-![3*x + 2*y = 7](http://chart.apis.google.com/chart?cht=tx&chl=3\cdot x%2B2\cdot y=7)
+![3*x + 2*y = 7](http://chart.apis.google.com/chart?cht=tx&chl=3%5Ccdot x%2B2%5Ccdot y=7)
 
 You can decompose the problem into:
-* variables that play part in the system: _x_ and _y_
-* possible input values for _x_ and _y_: both can be any [integer](http://en.wikipedia.org/wiki/Integer) (-∞, ..., -2, -1, 0, 1, 2, ..., ∞)
-* the constraints:
+* variables that play part in the system: **_x_** and **_y_**,
+* possible input values for _x_ and _y_: both can be any [**integer**](http://en.wikipedia.org/wiki/Integer) (-∞, ..., -2, -1, 0, 1, 2, ..., ∞)
+* the **constraints**:
   1. the equation `4*x + 3*y` must evaluate and be equal to `12`, and
   2. the equation `3*x + 2*y` must evaluate and be equal to `7`.
 
@@ -53,12 +53,12 @@ with [basic Python features and syntax](learn_python.md)!
 Follow this short tutorial:
 * [Constraint programming in Python](http://agiliq.com/blog/2009/03/constraint-programming-in-python/)
 
-Now it is your job to revise [Sudoku rules](http://www.sudoku.name/rules/),
-if you don't know them already, and then figure out, how to represent
+Now you should revise [Sudoku rules](http://www.sudoku.name/rules/),
+if you don't know them already, and then figure out how to represent
 the 'Sudoku problem':
 * what are the **variables** in a game of Sudoku,
 * what are their **possible values**, and
-* what are the **constraints** that define the correct solution.
+* what are the **constraints** that define the correct solution?
 
 You will need to **install a constraint-solving library** to execute this
 task, and you are free to [choose](http://labix.org/python-constraint)
