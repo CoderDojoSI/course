@@ -22,6 +22,8 @@ the humiliation and just skip it.
 
 ### Physics ###
 * [The Cosmos: A Personal Voyage](http://www.youtube.com/watch?v=ClPShKs9Kr0)
+* [Amazing Resonance Experiment](http://www.youtube.com/watch?v=wvJAgrUBF4w)
+* [Amazing anamorphic illusions](http://www.youtube.com/watch?v=tBNHPk-Lnkk)
 
 ### Psychology ###
 * Derren Brown
