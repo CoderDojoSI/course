@@ -24,10 +24,10 @@ section of [Audacity wiki](http://manual.audacityteam.org/man/Main_Page) to lear
 how to use the program to easily modify or convert just any sound ever with
 just a few clicks.
 
-For a successful completion of this task, you are required to
-1. **record a sentence** in your own voice, then
-2. use Audacity to **raise the pitch** (tone) of your voice but
-   **don't make the recording any shorter** (or faster)!
+For a successful completion of this task, you are required to:
+  1. **record a sentence** in your own voice, then
+  2. use Audacity to **raise the pitch** (tone) of your voice but
+     **don't make the recording any shorter** (or faster)!
 
 Show the result to your instructors. If you are working in pairs, **have the
 instructors guess** who made the recording. Your job is to trick them!
