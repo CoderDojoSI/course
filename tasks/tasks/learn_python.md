@@ -35,6 +35,10 @@ or if you don't completely understand what your Python code is doing,
 see if you can help yourself by using this
 [Python Tutor Visualization tool](http://www.pythontutor.com/visualize.html).
 
+If you encounter errors, which every inspired programmer should, you can
+follow this flowchart to see what is wrong:
+![PythonForBiologists "My code isn't working" flowchart](http://i.imgur.com/WRuJV6r.png)
+
 Only _after you have completed_ at least one of the above tutorials, you can
 deepen your knowledge (not to mention earn extra points!) by completing also at least any one of these:
 * [Beginning Game Programming for Teens with Python](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python)
