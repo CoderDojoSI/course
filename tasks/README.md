@@ -41,7 +41,7 @@ Audio
 
 Graphics
 -----
-* ![[1]][1] [Photoshop images with the GiMP](tasks/learn_gimp.md)
+* ![[1]][1] [Manipulate images with the GiMP](tasks/learn_gimp.md)
 
 Miscelaneous
 ------------
