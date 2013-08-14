@@ -46,6 +46,6 @@ Miscelaneous
 * ![[1]][] [Become the Architect: Design your interior](tasks/interior_design.md)
 
 
-[[1]]: data:image/gif;base64,R0lGODdhDAAMAIACAAAAAAD/ACwAAAAADAAMAAACF4SPF8ttDcOLbFIJ7rKURw+BTqYlplEAADs= "Level: easy"
-[[2]]: data:image/gif;base64,R0lGODdhDAAMAIACAAAAAP/eACwAAAAADAAMAAACF4SPF8ttDcOLbFIJ7rKURw+BTqYlplEAADs= "Level: intermediate"
-[[3]]: data:image/gif;base64,R0lGODdhDAAMAIACAAAAAP8AACwAAAAADAAMAAACF4SPF8ttDcOLbFIJ7rKURw+BTqYlplEAADs= "Level: advanced"
+[[1]]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
+[[2]]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_2.png "Level: intermediate"
+[[3]]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_3.png "Level: advanced"
