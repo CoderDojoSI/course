@@ -3,44 +3,49 @@ Do any of these tasks to earn points...
 
 Basics
 ------
-* [Create an **e-mail address**](tasks/create_email_address.md)
-* [**Installing software** on GNU/Linux](tasks/install_software.md)
+* ![[1]][] [Create an **e-mail address**](tasks/create_email_address.md)
+* ![[1]][] [**Installing software** on GNU/Linux](tasks/install_software.md)
 
 Read/Translate
 --------------
-* [Unix and Internet Fundamentals How-to](tasks/translate_TLDP_UIF.md)
+* ![[2]][] [Unix and Internet Fundamentals How-to](tasks/translate_TLDP_UIF.md)
 
 Online Course
 -------------
-* [**Power Searching** With Google](tasks/power_searching_google.md)
-* [Learn **touch typing**](tasks/touch_typing.md)
+* ![[1]][] [**Power Searching** With Google](tasks/power_searching_google.md)
+* ![[1]][] [Learn **touch typing**](tasks/touch_typing.md)
 
 Programming
 -----------
-* [**Use GitHub** as source code repository](tasks/create_git.md)
-* [Learn **Python**](tasks/learn_python.md)
-* [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
-* [Intro to **test-driven development** (TDD)](tasks/TDD_koans.md)
+* ![[1]][] [**Use GitHub** as source code repository](tasks/create_git.md)
+* ![[2]][] [Learn **Python**](tasks/learn_python.md)
+* ![[2]][] [Intro to **test-driven development** (TDD)](tasks/TDD_koans.md)
+* ![[3]][] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
 
 Research
 --------
-* [Find a SLOC](tasks/Find_a_SLOC.md)
+* ![[3]][] [Find a SLOC](tasks/Find_a_SLOC.md)
 
 <!---
 Challenges
 ----------
-* [Programming challenges](tasks/programming_challenges.md)
-* [Hacking challenges](tasks/hacking_challenges.md)
+* ![[2]][] [Programming challenges](tasks/programming_challenges.md)
+* ![[2]][] [Hacking challenges](tasks/hacking_challenges.md)
 -->
 
 Audio
 -----
-* [Edit audio files with Audacity](tasks/learn_audacity.md)
+* ![[1]][] [Edit audio files with Audacity](tasks/learn_audacity.md)
 
 Graphics
 -----
-* [Photoshop images with the GiMP](tasks/learn_gimp.md)
+* ![[1]][] [Photoshop images with the GiMP](tasks/learn_gimp.md)
 
 Miscelaneous
 ------------
-* [Become the Architect: Design your interior](tasks/interior_design.md)
+* ![[1]][] [Become the Architect: Design your interior](tasks/interior_design.md)
+
+
+[[1]]: data:image/gif;base64,R0lGODdhDAAMAIACAAAAAAD/ACwAAAAADAAMAAACF4SPF8ttDcOLbFIJ7rKURw+BTqYlplEAADs= "Level: easy"
+[[2]]: data:image/gif;base64,R0lGODdhDAAMAIACAAAAAP/eACwAAAAADAAMAAACF4SPF8ttDcOLbFIJ7rKURw+BTqYlplEAADs= "Level: intermediate"
+[[3]]: data:image/gif;base64,R0lGODdhDAAMAIACAAAAAP8AACwAAAAADAAMAAACF4SPF8ttDcOLbFIJ7rKURw+BTqYlplEAADs= "Level: advanced"
