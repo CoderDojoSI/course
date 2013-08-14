@@ -17,14 +17,16 @@ Online Course
 
 Programming
 -----------
+* ![[1]][1] [Get to know the **primitive data types**](tasks/data_types.md)
 * ![[1]][1] [**Use GitHub** as source code repository](tasks/create_git.md)
 * ![[2]][2] [Learn **Python**](tasks/learn_python.md)
-* ![[2]][2] [Intro to **test-driven development** (TDD)](tasks/TDD_koans.md)
+* ![[2]][2] [**Test-driven development** (TDD) intro](tasks/TDD_koans.md)
 * ![[3]][3] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
 
 Research
 --------
 * ![[3]][3] [Find a SLOC](tasks/Find_a_SLOC.md)
+* ![[3]][3] [OCR images with tesseract-ocr](tasks/images_OCR.md)
 
 <!---
 Challenges

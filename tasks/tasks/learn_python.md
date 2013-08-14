@@ -9,18 +9,19 @@ Programming is most of all fun! Everybody should learn **at least some** program
 
 There are many [programming languages](http://en.wikipedia.org/wiki/Programming_language)
 available today, and the choice is vast, but with this task, we will focus
-on Python. Python is the simplest programming language around and it's in the 
-lead by power to simplicity ratio. You will learn it now.
+on Python. Python is deployed on millions of computers and is the simplest
+general-purpose programming language around. You will learn it now.
 
 Task
 ----
 _Complete_ any of the following courses (or complete several for more points!):
-* [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
+* [**Non-Programmer's Tutorial for Python 3**](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/html/index.html)
 * [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/index.html)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [A Byte of Python](http://swaroopch.com/notes/python/) (Chapters 8–17 apply)
 * [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html)
+* [Computer Science on Khan Academy](https://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 
 You are advised to first **take the time to** skim through all the tutorials and
 thoroughly **evaluate** them by language, clarity, overall length, and depth of covered 
@@ -36,7 +37,7 @@ see if you can help yourself by using this
 [Python Tutor Visualization tool](http://www.pythontutor.com/visualize.html).
 
 If you encounter errors, which every inspired programmer should, you can
-follow this flowchart to see what is wrong:
+follow this flowchart to debug your program:
 ![PythonForBiologists "My code isn't working" flowchart](http://i.imgur.com/WRuJV6r.png)
 
 Only _after you have completed_ at least one of the above tutorials, you can

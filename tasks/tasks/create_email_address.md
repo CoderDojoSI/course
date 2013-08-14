@@ -2,7 +2,7 @@ Create an email address
 =======================
 
 To sign up with various online services, you need an address where you can
-be reached.  What better than an email address.
+be reached. What better address than an e-mail address!
 
 As this task, you need to create an email account with Google.
 
@@ -18,9 +18,11 @@ Since this is an account as important as your e-mail (right above your bank
 account!), it's reasonable to **set a strong and unique password** on it.
 **You MUST NOT USE THIS PASSWORD ON ANY OTHER ONLINE SERVICE that you sign up with.**
 
+**Warning**: don't let ANYBODY EVER know your e-mail password.
+
 Task
 ----
-You may wish to **read the following guides** first:
+You wish to **read the following guides** first:
 * [The Conscience of a Hacker](http://www.phrack.org/issues.html?issue=7&id=3&mode=txt)
 * [How to Lie to People: Achieving Anonymity Through Disinformation and Data Poisoning](http://www.textfiles.com/uploads/howtolie.txt)
 * [Advice From a Hacker on Picking a Good Password](http://www.theatlanticwire.com/technology/2012/08/advice-hacker-password-security-best-practices/56343/)
@@ -44,9 +46,13 @@ Best Regards
 The email must be exactly as shown, otherwise it won't be accepted. You have one
 shot at this. It is very complicated. You have been warned.
 
+**Tip**: Show your inbox to your instructors. They may provide tips about
+classifying email with labels or optimizing interface for faster workflow.
+
 What you will acquire
 ---------------------
-* A basis of all other online activity.
+* A basis for all other online activity.
 * Reading above guides in full will equip you with eternal ability to distinct
-  'good' and 'bad' passwords, and knowledge of best practices when creating
-  online accounts.
+  'good' and 'bad' passwords, and knowledge of best practices about **disguising
+  your true identity** when creating online accounts. Basically, **always give out 
+  as little information as possible, or give wrong information altogether**.

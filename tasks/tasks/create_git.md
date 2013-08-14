@@ -14,7 +14,7 @@ Visit the [GitHub website](https://github.com/) and create an account.
 
 To get started with Git, follow any or all of these tutorials:
 * http://try.github.io/levels/1/challenges/1/
-* http://gitimmersion.com/lab_01.html/
+* http://gitimmersion.com/lab_01.html
 
 Having a GitHub account will allow you to:
 * host freely your code, projects, and [websites](http://jekyllbootstrap.com/),
@@ -34,6 +34,8 @@ git init   - for creating a new repository
     log    - see the backlog of all commits
     push   - push the commits from your local repository to the origin
     pull   - pull changes (by others) into your local repository
+    help   - see the program usage and help
 ```
-You should also familiarize yourself with the GitHub interface.
+You should also familiarize yourself with the GitHub interface, and **you will
+be quizzed** on these subjects.
 
