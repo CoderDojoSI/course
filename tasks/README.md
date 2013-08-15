@@ -9,6 +9,7 @@ Basics
 Read/Translate
 --------------
 * ![[2]][2] [Unix and Internet Fundamentals How-to](tasks/translate_TLDP_UIF.md)
+* ![[2]][2] [The Unix Koans of Master Foo](tasks/unix_koans.md)
 
 Online Course
 -------------
@@ -46,6 +47,7 @@ Graphics
 Miscelaneous
 ------------
 * ![[1]][1] [Become the Architect: Design your interior](tasks/interior_design.md)
+* ![[1]][1] [Subscribe to daily news from **all fields of science**](tasks/zeitnews.md)
 
 
 [1]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
