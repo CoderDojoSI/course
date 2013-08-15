@@ -22,6 +22,7 @@ fields of:
 * Society,
 * Space Science, or
 * Transportation,
+
 then you will love ZeitNews:
 
 http://www.zeitnews.org/
