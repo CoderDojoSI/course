@@ -46,8 +46,8 @@ Graphics
 
 Miscelaneous
 ------------
-* ![[1]][1] [Become the Architect: Design your interior](tasks/interior_design.md)
-* ![[1]][1] [Subscribe to daily news from **all fields of science**](tasks/zeitnews.md)
+* ![[1]][1] [Become the **Architect**: Design your interior](tasks/interior_design.md)
+* ![[1]][1] [Subscribe to daily **news from all fields of science**](tasks/zeitnews.md)
 
 
 [1]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
