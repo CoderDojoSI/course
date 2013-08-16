@@ -43,6 +43,7 @@ Programming Tutorials
 * [Hackety Hack](http://hackety.com/) - learn Ruby
 * [How to Think Like a Computer Scientist - Learn With Python](http://openbookproject.net/thinkcs/python/english2e/)
 * [Learn to Program Ruby](http://pine.fm/LearnToProgram/?Chapter=00)
+* [Learn X in Y minutes](http://learnxinyminutes.com/) - Quick overview of 26 (at this moment) programming languages.
 * [Teach Kids Programming - SmallBasic](http://www.teachingkidsprogramming.org/)
 
 Web oriented
