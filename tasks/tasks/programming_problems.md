@@ -14,6 +14,7 @@ Or if those problems prove to be too hard for you to understand
 * http://codingbat.com/python
 * http://www.pythonchallenge.com/
 * http://www.reddit.com/r/dailyprogrammer
+* http://www.codechef.com/problems/easy
 
 Task
 ----
