@@ -31,7 +31,8 @@ Mobile App Development
 * [Android - A Beginner's Guide](http://www.codeproject.com/Articles/102065/Android-A-beginner-s-guide) - basic Android app programming
 * [AppCoda](http://www.appcoda.com/tutorials/) - basic iPhone and iPad app programming
 * [ARIS](http://arisgames.org/) -  user-friendly, open source platform for creating and playing mobile games, tours, and interactive stories
-* [MIT App Inventor](http://appinventor.mit.edu/explore/)
+* [MIT App Inventor](http://appinventor.mit.edu/explore/) - Create Android Apps in Scratch-like environment
+	- [MIT App Inventor Video Tutorials](http://www.pluralsight.com/training/Courses/TableOfContents/android-beginner-app-inventor)
 * [PhoneGap](http://phonegap.com/) - create an app using HTML and JavaScript
 * [Stanford Fall 2011 iPhone and iPad Development Course](https://itunes.apple.com/itunes-u/ipad-iphone-application-development/id473757255?mt=2)
 
@@ -42,7 +43,9 @@ Programming Tutorials
 * [CodeCademy](http://www.codecademy.com/)
 * [Hackety Hack](http://hackety.com/) - learn Ruby
 * [How to Think Like a Computer Scientist - Learn With Python](http://openbookproject.net/thinkcs/python/english2e/)
+* [Kids Ruby](http://www.kidsruby.com/) - 
 * [Learn to Program Ruby](http://pine.fm/LearnToProgram/?Chapter=00)
+* [Learn X in Y minutes](http://learnxinyminutes.com/) - Quick overview of 26 (at this moment) programming languages.
 * [Teach Kids Programming - SmallBasic](http://www.teachingkidsprogramming.org/)
 
 Web oriented
@@ -61,7 +64,8 @@ Visual Programming Languages
 * [Kodu](http://research.microsoft.com/en-us/projects/kodu/) - a visual programming language made specifically for creating games
 * [Python Turtle](http://pythonturtle.org/)
 * [Scratch](http://scratch.mit.edu/)
-
+* [Stencyl](http://www.stencyl.com/) - Game creation software similar to Scratch
+	- [Stencyl tutorial](http://www.stencyl.com/help/view/abigayl-1/)
 
 Web Development/Programming Tools & Editors
 -------------------------------------------
