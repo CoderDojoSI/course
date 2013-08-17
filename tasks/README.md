@@ -43,6 +43,14 @@ Graphics
 -----
 * ![[1]][1] [Photoshop images with the GiMP](tasks/learn_gimp.md)
 
+
+Languages
+---------
+
+* ![[1]][1] [Rosetta stone](http://www.rosettastone.eu/)
+* ![[1]][1] [Duolingo](http://www.duolingo.com/)
+* ![[1]][1] [Livemocha](http://livemocha.com/)
+
 Miscelaneous
 ------------
 * ![[1]][1] [Become the **Architect**: Design your interior](tasks/interior_design.md)
