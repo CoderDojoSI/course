@@ -37,3 +37,7 @@ a game about the passage through life.
 Run the game as proof of completion.
 
 Learn to maintain. After you're done, if you don't like the game, do **remove it from your system**.
+
+**Remember**: Your operating system is a derivative of Debian, so when you install software from the web, 
+you should install packages made for preferrably 
+![](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/debian-logo-icon.png) **Debian** (*.deb), if available.
