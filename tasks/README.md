@@ -29,12 +29,10 @@ Research
 * ![[3]][3] [Find a SLOC](tasks/Find_a_SLOC.md)
 * ![[3]][3] [OCR images with tesseract-ocr](tasks/images_OCR.md)
 
-<!---
 Challenges
 ----------
-* ![[2]][2] [Programming challenges](tasks/programming_challenges.md)
+* ![[2]][2] [Programming challenges](tasks/programming_problems.md)
 * ![[2]][2] [Hacking challenges](tasks/hacking_challenges.md)
--->
 
 Audio
 -----
