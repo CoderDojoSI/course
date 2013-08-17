@@ -21,6 +21,7 @@ Programming
 * ![[1]][1] [Get to know the **primitive data types**](tasks/data_types.md)
 * ![[1]][1] [**Use GitHub** as source code repository](tasks/create_git.md)
 * ![[2]][2] [Learn **Python**](tasks/learn_python.md)
+* ![[2]][2] [Learn **Ruby**](tasks/learn__ruby.md)
 * ![[2]][2] [**Test-driven development** (TDD) intro](tasks/TDD_koans.md)
 * ![[3]][3] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
 
