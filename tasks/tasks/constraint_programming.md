@@ -75,3 +75,16 @@ one damned hard puzzle.
 
 You are, of course, welcome to **suggest your own problem** that you would
 like to solve with constraint programming. You will get points accordingly.
+
+
+Similar problem suggestion
+--------------------------
+If you don't like Sudoku, perhaps you can solve this simple equation for us:
+```
+    W O O D Y
++     W O O D
+=============
+  P E C K E R
+```
+We can't seem to remember what the correct numerical values for
+C, D, E, K, O, P, R, W, and Y are. Plx help.
