@@ -5,6 +5,7 @@ Basics
 ------
 * ![[1]][1] [Create an **e-mail address**](tasks/create_email_address.md)
 * ![[1]][1] [**Installing software** on GNU/Linux](tasks/install_software.md)
+* ![[1]][1] [Learn Linux the hard way](http://nixsrv.com/llthw/ex1) ( Limit the number of excercises "needed" for basics? Discuss )
 
 Read/Translate
 --------------
