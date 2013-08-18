@@ -24,6 +24,12 @@ the new code you've commited.
 
 Task
 ----
+
+[This repository](https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises) covers TDD in Python, Ruby, Java, JavaScript, Php, C#, with a taste of [Object-oriented programming](http://en.wikipedia.org/wiki/Object-oriented_programming).
+
+Python
+------
+
 You will learn to appreciate [The Zen of Python](http://www.python.org/dev/peps/pep-0020/)
 through solving simple Python problems.
 
@@ -35,6 +41,7 @@ about the Python language and designing computer software in general.
 Follow the instructions here:
 * https://github.com/gregmalcolm/python_koans
 
-If you prefer Ruby to Python, which your shouldn't, there is a slightly
-inferior ruby counterpart tutorial [here](http://rubykoans.com/).
+Ruby
+----
 
+You can also test/expand your knowledge of Ruby with [Ruby koans](http://rubykoans.com).

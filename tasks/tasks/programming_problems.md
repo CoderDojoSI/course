@@ -11,9 +11,11 @@ general problems relevant to the field of **mathematics**:
 * http://www.spoj.com/problems/classical/
 Or if those problems prove to be too hard for you to understand
 (i.e. you are not smart enough), try some of these, easy ones:
+* https://sites.google.com/site/tddproblems/all-problems-1
 * http://codingbat.com/python
 * http://www.pythonchallenge.com/
 * http://www.reddit.com/r/dailyprogrammer
+* http://www.checkio.org/
 * http://www.codechef.com/problems/easy
 
 Task

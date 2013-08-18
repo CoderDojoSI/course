@@ -5,6 +5,7 @@ Basics
 ------
 * ![[1]][1] [Create an **e-mail address**](tasks/create_email_address.md)
 * ![[1]][1] [**Installing software** on GNU/Linux](tasks/install_software.md)
+* ![[1]][1] [Learn Linux the hard way](http://nixsrv.com/llthw/ex1) ( Limit the number of excercises "needed" for basics? Discuss )
 
 Read/Translate
 --------------
@@ -21,6 +22,7 @@ Programming
 * ![[1]][1] [Get to know the **primitive data types**](tasks/data_types.md)
 * ![[1]][1] [**Use GitHub** as source code repository](tasks/create_git.md)
 * ![[2]][2] [Learn **Python**](tasks/learn_python.md)
+* ![[2]][2] [Learn **Ruby**](tasks/learn__ruby.md)
 * ![[2]][2] [**Test-driven development** (TDD) intro](tasks/TDD_koans.md)
 * ![[3]][3] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
 
@@ -42,10 +44,27 @@ Graphics
 -----
 * ![[1]][1] [Photoshop images with the GiMP](tasks/learn_gimp.md)
 
-Miscelaneous
+
+Languages
+---------
+
+* ![[1]][1] [Rosetta stone](http://www.rosettastone.eu/)
+* ![[1]][1] [Duolingo](http://www.duolingo.com/)
+* ![[1]][1] [Livemocha](http://livemocha.com/)
+
+
+DIY
+---
+
+* ![[1]][1] [Instructables](http://www.instructables.com/)
+* ![[1]][1] [Hardware hacking](https://diy.org/skills/hardwarehacker)
+* ![[1]][1] [Lets make robots](http://letsmakerobots.com/)
+
+Miscellaneous
 ------------
 * ![[1]][1] [Become the **Architect**: Design your interior](tasks/interior_design.md)
 * ![[1]][1] [Subscribe to daily **news from all fields of science**](tasks/zeitnews.md)
+* ![[1]][1] [TED talks](http://www.ted.com/)
 
 
 [1]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
