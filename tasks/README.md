@@ -52,10 +52,19 @@ Languages
 * ![[1]][1] [Duolingo](http://www.duolingo.com/)
 * ![[1]][1] [Livemocha](http://livemocha.com/)
 
-Miscelaneous
+
+DIY
+---
+
+* ![[1]][1] [Instructables](http://www.instructables.com/)
+* ![[1]][1] [Hardware hacking](https://diy.org/skills/hardwarehacker)
+* ![[1]][1] [Lets make robots](http://letsmakerobots.com/)
+
+Miscellaneous
 ------------
 * ![[1]][1] [Become the **Architect**: Design your interior](tasks/interior_design.md)
 * ![[1]][1] [Subscribe to daily **news from all fields of science**](tasks/zeitnews.md)
+* ![[1]][1] [TED talks](http://www.ted.com/)
 
 
 [1]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
