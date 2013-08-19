@@ -31,7 +31,7 @@ Task
 ----
 
 Edit this (link) megalomanic file:
-- add "#" in front of lines 33 to 66 (comment)
+- add "#" in front of lines 33 to 666 (comment)
 - replace word X in line 12 with Y
 - replace all occurances of word X with Y
 - increase number X in line Z to Y, derease

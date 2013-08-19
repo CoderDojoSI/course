@@ -45,8 +45,8 @@ which is sort of a **score-tracking hub across all such challenge sites**.
 
 Then, you can register on any other of those sites and **do their challenges**.
 (You can also work on WeChall challenges first.) Most sites will require
-a registration before you can see the challenges, but let that not deter you from
-reviewing all the sites carefully. Some challenges will likely be above
+a registration before you can view the challenges, but let that not deter you from
+reviewing all the sites carefully. Some challenges will likely be over
 your head (and even your all-knowing instructors couldn't solve them), some
 you should find fairly easy to moderate.
 

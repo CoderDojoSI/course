@@ -14,7 +14,7 @@ _test suite_ automatically run the tests on your code.  If any errors are
 found (e.g. one of the tests doesn't pass), then you can assume that either
 your program's algorithm or the test is wrong.
 
-This is called [test-driven development](http://en.wikipedia.org/wiki/Test-driven_development).
+This is called [_test-driven development_](http://en.wikipedia.org/wiki/Test-driven_development).
 
 Having a set of tests also helps in further development of your program,
 e.g. by having your code tested after every major code change, you ensure
@@ -25,7 +25,10 @@ the new code you've commited.
 Task
 ----
 
-[This repository](https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises) covers TDD in Python, Ruby, Java, JavaScript, Php, C#, with a taste of [Object-oriented programming](http://en.wikipedia.org/wiki/Object-oriented_programming).
+[This repository](https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises)
+contains a taste of what TDD is like in the real world (in either Python, Ruby, JavaScript, ...).
+The code also adheres to [object-oriented programming](http://en.wikipedia.org/wiki/Object-oriented_programming) principles.
+What can you do with it?
 
 Python
 ------
@@ -44,4 +47,5 @@ Follow the instructions here:
 Ruby
 ----
 
-You can also test/expand your knowledge of Ruby with [Ruby koans](http://rubykoans.com).
+You can also test/expand your knowledge of Ruby with [Ruby koans](http://rubykoans.com)
+(like Python koans above, just a little uglier).

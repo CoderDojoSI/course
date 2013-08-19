@@ -12,10 +12,10 @@ Task
 ----
 Visit the [GitHub website](https://github.com/) and create an account.
 
-To get started with Git, follow any or all of these tutorials:
+To get started with Git, follow **any two** of these tutorials:
 * http://try.github.io/levels/1/challenges/1/
-* http://gitimmersion.com/lab_01.html
 * http://learnxinyminutes.com/docs/git/
+* http://gitimmersion.com/lab_01.html
 
 Having a GitHub account will allow you to:
 * host freely your code, projects, and [websites](http://jekyllbootstrap.com/),

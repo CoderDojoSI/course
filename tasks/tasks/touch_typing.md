@@ -18,7 +18,6 @@ Complete one (or more) of these courses:
 Only after the course, you can win at playing these games:
 * http://games.sense-lang.org/
 
-
 What you will acquire
 ---------------------
-* Touch-typing skills that will make you a more efficient computer user
+* Touch-typing skills that will **make you a 100% more efficient** computer user
