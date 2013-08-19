@@ -50,4 +50,4 @@ reviewing all the sites carefully. Some challenges will likely be over
 your head (and even your all-knowing instructors couldn't solve them), some
 you should find fairly easy to moderate.
 
-It depends on **how good a hacker you want to become**. ;)
+It depends on **how good a hacker you want to become**. `;)`

@@ -30,8 +30,7 @@ contains a taste of what TDD is like in the real world (in either Python, Ruby, 
 The code also adheres to [object-oriented programming](http://en.wikipedia.org/wiki/Object-oriented_programming) principles.
 What can you do with it?
 
-Python
-------
+### Python ###
 
 You will learn to appreciate [The Zen of Python](http://www.python.org/dev/peps/pep-0020/)
 through solving simple Python problems.
@@ -44,8 +43,7 @@ about the Python language and designing computer software in general.
 Follow the instructions here:
 * https://github.com/gregmalcolm/python_koans
 
-Ruby
-----
+### Ruby ###
 
 You can also test/expand your knowledge of Ruby with [Ruby koans](http://rubykoans.com)
 (like Python koans above, just a little uglier).
