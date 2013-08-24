@@ -69,6 +69,7 @@ You are free to play any of these educative and illuminative games, but only dur
 * [Vim Snake](http://www.vimsnake.com/) — a game that will increase your [vim](tasks/advanced_text_editing.md) skills
 * [Sense-Lang games](http://games.sense-lang.org/) — typing games that will help you become a better keyboard user
 * [Hacker.org puzzles](http://www.hacker.org/) — a collection of puzzle games
+* [Ruby Warrior](https://www.bloc.io/ruby-warrior/) - Fight your way through a horde of monsters with your programming skills
 
 
 [1]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
