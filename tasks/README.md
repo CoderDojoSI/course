@@ -32,8 +32,8 @@ Programming
 * ![[3]][3] [Hacking challenges](tasks/hacking_challenges.md)
 
 ### Web Programming ###
-* TODO(JernejB)
-
+* ![[1]][1] [Create a Website](tasks/create_website.md)
+* ![[1]][1] [Create a HTML5 Game](tasks/create_html_game.md)
 ### Programming Games ###
 * TODO
 
