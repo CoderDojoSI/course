@@ -37,7 +37,7 @@ Programming
 
 ### Programming Games ###
 * TODO
-
+* ![[1]][1] [First Python Game With PyGame](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python) - TODO: create a task
 
 Research
 --------
