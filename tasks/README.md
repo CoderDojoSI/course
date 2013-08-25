@@ -5,7 +5,7 @@ Basics
 ------
 * ![[1]][1] [Create an **e-mail address**](tasks/create_email_address.md)
 * ![[1]][1] [**Installing software** on GNU/Linux](tasks/install_software.md)
-* ![[1]][1] [Learn Linux the hard way](http://nixsrv.com/llthw/ex1) (TODO: Limit the number of excercises "needed" for basics? Discuss )
+* ![[1]][1] [TODO: Learn Linux the hard way](http://nixsrv.com/llthw/ex1) (TODO: Limit the number of excercises "needed" for basics? Discuss )
 
 Read/Translate
 --------------
@@ -17,6 +17,12 @@ Online Course
 * ![[1]][1] [**Power Searching** With Google](tasks/power_searching_google.md)
 * ![[1]][1] [Learn **touch typing**](tasks/touch_typing.md)
 * ![[1]][1] [¿Habla español? — **Learn a new language**!](tasks/new_language.md)
+
+Scratch the surface
+-------------------
+* [Move the light-Bot](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/flash/armorgames_light-bot-2205.swf)
+* ![[1]][1] [Navigate the **Blockly Maze**](tasks/scratch_blockly_maze.md)
+* ![[1]][1] [**Scratch** out those interactive stories](tasks/scratch.md)
 
 Programming
 -----------
@@ -32,11 +38,11 @@ Programming
 * ![[3]][3] [Hacking challenges](tasks/hacking_challenges.md)
 
 ### Web Programming ###
-* ![[1]][1] [Create a Website](tasks/create_website.md)
+* ![[1]][1] [Make your first Website](tasks/create_website.md)
 * ![[1]][1] [Create a HTML5 Game](tasks/create_html_game.md)
 
 ### Programming Games ###
-* TODO
+* ![[3]][3] TODO(kernc): realtimebattle
 
 
 Research
@@ -63,14 +69,19 @@ Miscellaneous
 -------------
 * ![[1]][1] [Become the **Architect**: Design your interior](tasks/interior_design.md)
 * ![[1]][1] [Subscribe to daily **news from all fields of science**](tasks/zeitnews.md)
+* TODO: Start to blog!
 
 Games
 -----
 You are free to play any of these educative and illuminative games, but only during recess:
-* [Vim Snake](http://www.vimsnake.com/) — a game that will increase your [vim](tasks/advanced_text_editing.md) skills
-* [Sense-Lang games](http://games.sense-lang.org/) — typing games that will help you become a better keyboard user
-* [Hacker.org puzzles](http://www.hacker.org/) — a collection of puzzle games
-* [Ruby Warrior](https://www.bloc.io/ruby-warrior/) - Fight your way through a horde of monsters with your programming skills
+* [Vim Snake](http://www.vimsnake.com/) — A game that will increase your [vim](tasks/advanced_text_editing.md) skills.
+* [Sense-Lang games](http://games.sense-lang.org/) — Typing games that will help you become a better keyboard user.
+* [Hacker.org puzzles](http://www.hacker.org/) — A collection of puzzle games.
+* [Ruby Warrior](https://www.bloc.io/ruby-warrior/) — Fight your way through a horde of monsters with your Ruby programming skills
+* [light-Bot](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/flash/armorgames_light-bot-2205.swf) — Program the robot to reach it's goal.
+* [Blockly Graphing Calculator](http://blockly-demo.appspot.com/static/apps/graph/index.html#nu7gas) — Graph equation constructor and visualization tool.
+* [Fantastic Contraption](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/flash/FantasticContraption.swf) — Engineer a working contraption.
+* [X-Ray Goggles](https://goggles.webmaker.org/) — Remix any HTML webpage instantly.
 
 
 [1]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
