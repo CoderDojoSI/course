@@ -20,7 +20,7 @@ Online Course
 
 Scratch the surface
 -------------------
-* [Move the light-Bot](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/flash/armorgames_light-bot-2205.swf)
+* ![[0]][0] [Move the light-Bot](http://cache.armorgames.com/files/games/light-bot-2205.swf)
 * ![[1]][1] [Navigate the **Blockly Maze**](tasks/scratch_blockly_maze.md)
 * ![[1]][1] [**Scratch** out those interactive stories](tasks/scratch.md)
 
@@ -39,9 +39,9 @@ Programming
 
 ### Web Programming ###
 * ![[1]][1] [Make your first Website](tasks/create_website.md)
-* ![[1]][1] [Create a HTML5 Game](tasks/create_html_game.md)
 
 ### Programming Games ###
+* ![[1]][1] [Create a HTML5 Game](tasks/create_html_game.md)
 * ![[3]][3] TODO(kernc): realtimebattle
 
 
@@ -60,7 +60,7 @@ Graphics
 
 DIY
 ---
-* TODO
+* TODO(razee)?
   * ![[1]][1] [Instructables](http://www.instructables.com/)
   * ![[1]][1] [Hardware hacking](https://diy.org/skills/hardwarehacker)
   * ![[1]][1] [Lets make robots](http://letsmakerobots.com/)
@@ -73,17 +73,18 @@ Miscellaneous
 
 Games
 -----
-You are free to play any of these educative and illuminative games, but only during recess:
+You are free to play any of these educative and illuminative games, but **only during recess**:
 * [Vim Snake](http://www.vimsnake.com/) — A game that will increase your [vim](tasks/advanced_text_editing.md) skills.
 * [Sense-Lang games](http://games.sense-lang.org/) — Typing games that will help you become a better keyboard user.
 * [Hacker.org puzzles](http://www.hacker.org/) — A collection of puzzle games.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior/) — Fight your way through a horde of monsters with your Ruby programming skills
-* [light-Bot](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/flash/armorgames_light-bot-2205.swf) — Program the robot to reach it's goal.
+* [light-Bot](http://cache.armorgames.com/files/games/light-bot-2205.swf) — Program the robot to reach it's goal.
 * [Blockly Graphing Calculator](http://blockly-demo.appspot.com/static/apps/graph/index.html#nu7gas) — Graph equation constructor and visualization tool.
-* [Fantastic Contraption](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/flash/FantasticContraption.swf) — Engineer a working contraption.
+* [Fantastic Contraption](http://fantasticcontraption.com/game/Contraption.swf) — Engineer a working contraption.
 * [X-Ray Goggles](https://goggles.webmaker.org/) — Remix any HTML webpage instantly.
 
 
+[0]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_0.png "Level: ?"
 [1]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
 [2]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_2.png "Level: intermediate"
 [3]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_3.png "Level: advanced"
