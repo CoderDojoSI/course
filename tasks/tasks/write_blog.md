@@ -33,7 +33,7 @@ You should be going for a rather relatively **unique and functional style**.
 
 Finally, continue to **post on your blog regularly**.
 
-You get points for completion of this task when you have at least 10 blog posts
-with at least 150 words each, spanning at least 40 days.
+You get points for completion of this task when you have at least 12
+non-copied blog posts with at least 200 words each, spanning at least 40 days.
 
 Happy [creative writing](http://www.wikihow.com/Write-a-Good-Story)! `;)`

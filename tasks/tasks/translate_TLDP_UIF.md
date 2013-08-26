@@ -1,10 +1,11 @@
-
 Translate _Unix and Internet Fundamentals HOWTO_ into your native language
 ==========================================================================
 
-Source text:
-http://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html
-
+Task
+----
+Read (and possibly translate in parts into your native language) the following
+computer fundamentals guide:
+* http://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html
 
 What you will acquire
 ---------------------
