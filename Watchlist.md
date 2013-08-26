@@ -1,12 +1,14 @@
+CoderDojo Watchlist
+===================
 
-## Documentaries ##
-<!---
-No stupid US shows!
-If it's a Discovery Networks production, or looks like it, save yourself
-the humiliation and just skip it.
+Documentaries
+-------------
+<!--- No stupid US shows!
+      If it's a Discovery Networks production, or looks like it,
+      save yourself the humiliation and just skip it.
 -->
-
 ### Computers ###
+* [How the Internet Works in 5 Minutes](http://www.youtube.com/watch?v=7_LPdttKXPc)
 * [RevolutionOS (Linux story)](http://www.youtube.com/watch?v=iBVgcjhYV2A)
 * [BBS documentary](http://www.youtube.com/watch?v=JnSz-Hb9LQY)
 * [Hippies from hell](http://www.youtube.com/watch?v=TuOOmjdYEt8)
@@ -36,7 +38,8 @@ the humiliation and just skip it.
 * [Poor Us: An animated history](http://www.youtube.com/watch?v=TxbmjDngois)
 * [Money as Debt](http://www.youtube.com/watch?v=jqvKjsIxT_8)
 
-## Movies ##
+Movies
+------
 * [Hackers](http://www.imdb.com/title/tt0113243/)
 * [Antitrust](http://www.imdb.com/title/tt0218817/)
 * [3 Idiots](http://www.imdb.com/title/tt1187043/)
