@@ -49,18 +49,17 @@ Programming
 * ![[2]][2] [Make your first Website](tasks/create_website.md)
 
 ### Programming Games ###
-<<<<<<< HEAD
-<<<<<<< HEAD
-* TODO
-* ![[1]][1] [First Python Game With PyGame](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python) - TODO: create a task
+* ![[2]][2] [First Python Game With PyGame](tasks/create_game_pygame.md)
+
 =======
+
 * ![[3]][3] TODO(kernc): realtimebattle
 
->>>>>>> 530a54164475100f26ba28dad78b78f00997693e
+
 =======
 * ![[3]][3] [Create a HTML5 Game](tasks/create_html_game.md)
 * ![[8]][5] [**A.I. Challenge**: Real-Time Battle of Warriors](tasks/aichallenge.md)
->>>>>>> e285bafd63031b80b306a1dad6152dee6bd234fa
+
 
 Research
 --------
