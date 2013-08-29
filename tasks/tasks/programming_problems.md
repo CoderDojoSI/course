@@ -11,7 +11,7 @@ general problems relevant to the venerable field of **mathematics**:
 * http://www.spoj.com/problems/classical/
 
 Or if those problems prove to be too hard for you to comprehend
-(i.e. you are not smart enough), try some of these, easier ones:
+(i.e. you are not yet smart enough), try some of these, easier ones:
 * https://sites.google.com/site/tddproblems/all-problems-1
 * http://codingbat.com/python
 * http://www.checkio.org/

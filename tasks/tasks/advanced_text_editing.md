@@ -4,6 +4,7 @@ Intro to **advanced text editing**
 
 Why?
 ----
+TODO(b4d)?
 
 
 Editor of choice
@@ -17,6 +18,7 @@ VIM vs emacs
 
 VIM
 ---
+* [Vim tutorial](http://www.openvim.com/tutorial.html)
 http://net.tutsplus.com/articles/web-roundups/25-vim-tutorials-screencasts-and-resources/
 
 
