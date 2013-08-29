@@ -49,7 +49,6 @@ Programming
 * ![[2]][2] [Make your first Website](tasks/create_website.md)
 
 ### Programming Games ###
-* ![[2]][2] [First Python Game With PyGame](tasks/create_game_pygame.md)
 
 =======
 
@@ -58,6 +57,7 @@ Programming
 
 =======
 * ![[3]][3] [Create a HTML5 Game](tasks/create_html_game.md)
+* ![[3]][3] [First Python Game With PyGame](tasks/create_game_pygame.md)
 * ![[8]][5] [**A.I. Challenge**: Real-Time Battle of Warriors](tasks/aichallenge.md)
 
 
