@@ -4,6 +4,8 @@ Create a HTML5 Game
 Before jumping in, you should read the following article first.
 [Getting started with HTML5 game development](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
 
+Upon finishing the link above, you can proceed [here](https://github.com/DaRaFF/jsgamewiki) to decide on what to start.
+
 ### Below text should be changed accordingly, if it will remain unchanged for a few days I will assume no one cares and JUDGE IT WITH RIGHTEOUS FURY.
 
 If you have already created you own website you might wish to add a game to it.
