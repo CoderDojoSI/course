@@ -22,6 +22,7 @@ Upon finishing the link above, you should proceed [here](https://github.com/DaRa
 
 
 Additional useful material about canvas element:
+
 [W3Schools HTML5 Canvas](http://www.w3schools.com/html/html5_canvas.asp)
 
 [Dive Into HTML5 - Canvas](http://diveintohtml5.info/canvas.html)
