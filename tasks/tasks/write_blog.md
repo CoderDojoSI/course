@@ -1,9 +1,9 @@
-Start writing your own we**_b log_**
-====================================
+Start writing your own web log
+==============================
 
 It seems everyone wants to be a famous _writer_ today.
 
-By starting to write [blogs](http://en.wikipedia.org/wiki/Blog) you are
+By starting to write a [blog](http://en.wikipedia.org/wiki/Blog) you are
 well looking into improving your constructive thought process and writing
 skills. If you don't look good, at least you can be well-spoken, well-read,
 and – obviously – well-written.

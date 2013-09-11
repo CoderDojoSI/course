@@ -36,7 +36,14 @@ Now dive in deeply by following **any one** of these fine manuals:
 **Happy experimenting** with HTML! That's all you need to do,
 experiment and see what different HTML elements do.
 
-**Remember**: [W3Schools' HTML reference](http://www.w3schools.com/tags/default.asp)
+You can use these interactive instant-feedback HTML+CSS+JavaScript editors
+for experimenting:
+* [JS Bin](http://jsbin.com/welcome/1/edit)
+* [jsFiddle](http://jsfiddle.net/)
+
+But **always save your progress** so you will be able to **recall it later if needed**.
+
+**Tip**: [W3Schools' HTML reference](http://www.w3schools.com/tags/default.asp)
 is an invaluable resource.
 Also look at [CSS](http://www.w3schools.com/html/html_css.asp) (for making pretty colors and shapes), 
 and some [JavaScript](http://www.w3schools.com/js/default.asp) (for programming dynamic, changing content).
