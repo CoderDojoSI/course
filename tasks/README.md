@@ -15,15 +15,14 @@ Basics
 * ![[1]][1] [**Installing software** in GNU/Linux](tasks/install_software.md)
 * ![[5]][4] TODO Unix command line
   * [Learn Linux the hard way](http://nixsrv.com/llthw/ex1) ...
-* TODO: Join us on IRC!
+* ![[3]][1] [Join us on **IRC**!](tasks/irc.md)
 
 Scratch the surface
 -------------------
 * ![[1]][0] [Move the **light-Bot**](http://educative-games.org/#programming/light-bot-2) <!--- http://mark-byers.blogspot.com/2009/01/light-bot-in-131-commands.html -->
 * ![[2]][1] [Navigate the **Blockly Maze**](tasks/scratch_blockly_maze.md)
 * ![[3]][2] [**Scratch** out those interactive stories](tasks/scratch.md)
-* ![[3]][0] [Play **programming games**](tasks/play_games.md)
-* TODO: http://www.turtleacademy.com/learn.php
+* ![[4]][0] [Play **programming games**](tasks/play_games.md)
 
 Programming
 -----------
@@ -37,36 +36,34 @@ Programming
   * also this shit, user interfaces? http://dregsoft.com/WizBang/WizBang.html
 * ![[4]][4] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
 
-### Real-world problems ###
-* ![[6]][4] [Programming challenges](tasks/programming_problems.md)
-* ![[7]][5] [Hacking challenges](tasks/hacking_challenges.md)
-* TODO: Add functionallity to our IRC bot
-* TODO: Apply to become Debian Developer
-
 ### Web programming ###
 * ![[2]][2] [Make your first Website](tasks/create_website.md)
-* ![[2]][2] The "old-school" way of learning JavaScript
-* ![[2]][2] **Fun exploring with JavaScript** (dis real good)
-  * http://www.programmingbasics.org/
-  * http://www.crunchzilla.com/code-monster
-  
-  
-* ![[2]][3] TODO: Dynamic pages with **JavaScript** (w3schools? + CodeAvengers--? + w3schools/jQuery) → goal?
-* ![[2]][3] TODO: Definite CSS styling guide → goal?
+* ![[2]][2] [**JavaScript**: The Fun](tasks/javascript_fun.md)
+* ![[2]][2] The "old-school" way of JavaScript + jQuery
+* ![[2]][3] TODO: Definite CSS styling guide
 * ![[6]][5] TODO: Make a webapp in web2py or NodeJS or some other framework
 
-### Games programming ###
+### Programming Games ###
 * ![[3]][3] [Create a HTML5 Game](tasks/create_html_game.md)
+* ![[3]][3] [First Python Game With PyGame](tasks/create_game_pygame.md)
+* ![[8]][5] [A.I. Challenge: **Real-Time Battle** of Warriors](tasks/aichallenge.md)
 * TODO http://www.playmycode.com/
 * TODO http://pixieengine.com/ (docs?)
 
-* ![[8]][5] [A.I. Challenge: **Real-Time Battle** of Warriors](tasks/aichallenge.md)
+### Real-world problems ###
+* ![[6]][4] [Programming challenges](tasks/programming_problems.md)
+* ![[7]][5] [Hacking challenges](tasks/hacking_challenges.md)
+* ![[7]][5] [Add functionallity to our **IRC bot**](tasks/irc_bot.md)
+* TODO: Apply to become a "Debian Developer"
+
 
 ### Mobile ###
 * TODO: Seamless UIs for mobile apps
   * http://appinventor.mit.edu/
   * http://www.pluralsight.com/training/Courses/TableOfContents/android-beginner-app-inventor
+  * http://lunduke.com/?page_id=3454
 * https://www.touchdevelop.com/
+
 
 Research
 --------
