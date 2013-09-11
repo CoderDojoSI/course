@@ -40,6 +40,7 @@ Programming
 * ![[2]][2] [Make your first Website](tasks/create_website.md)
 * ![[2]][2] [**JavaScript**: The Fun](tasks/javascript_fun.md)
 * ![[2]][2] The "old-school" way of JavaScript + jQuery
+* ![[3]][4] [A badass list of frontend development resources](https://gist.github.com/dypsilon/5819504) ### ( Should we filter this, or just let them explore? ( Fuck, this is huge ) )
 * ![[2]][3] TODO: Definite CSS styling guide
 * ![[6]][5] TODO: Make a webapp in web2py or NodeJS or some other framework
 
@@ -74,6 +75,7 @@ Read/Translate
 --------------
 * ![[3]][3] [Unix and Internet **Fundamentals** How-to](tasks/translate_TLDP_UIF.md)
 * ![[2]][4] [The **Unix Koans** of Master Foo](tasks/unix_koans.md)
+* ![[3]][4] [Freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 
 Online Course
 -------------
@@ -96,10 +98,8 @@ Graphics
 DIY
 ---
 * TODO: LEGO stuff
-* TODO(razee)?
-  * [Instructables](http://www.instructables.com/)
-  * [Hardware hacking](https://diy.org/skills/hardwarehacker)
-  * [Lets make robots](http://letsmakerobots.com/)
+* ![[0]][0] [DIY](tasks/DIY.md)
+
 
 Miscellaneous
 -------------
