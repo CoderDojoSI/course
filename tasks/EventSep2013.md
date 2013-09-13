@@ -60,7 +60,7 @@ Miscellaneous
 -------------
 * ![[4]][1] [Subscribe to daily **news from all fields of science**](tasks/zeitnews.md)
 * ![[5]][1] [Start your own **blog**!](tasks/write_blog.md)
-* ![[1]][1] [Pick Locks for Fun & Profit](tasks/lockpicking.md)
+* ![[1]][1] [**Pick Locks** for Fun & Profit](tasks/lockpicking.md)
 
 Toys & Games
 ------------
