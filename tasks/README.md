@@ -98,7 +98,8 @@ Graphics
 DIY
 ---
 * TODO: LEGO stuff
-* ![[0]][0] [DIY](tasks/DIY.md)
+* ![[0]][0] [Crafting / Building](tasks/crafting.md)
+* ![[0]][0] [Hardware hacking](tasks/hw_hacking.md)
 
 
 Miscellaneous
