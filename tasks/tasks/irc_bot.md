@@ -16,7 +16,7 @@ Task
 have that would benefit users on the channel.
 Preferrably **discuss this with your mentors**.
 
-Then **clone the [botko repository](https://github.com/CoderDojoSI/botko)**, and then thoroughly **study the existing code**.
+Then **clone the [botko repository](https://github.com/CoderDojoSI/botko)** and thoroughly **study the existing code**.
 
 Add decided-upon functionality (write the required new code or source modifications) to your local copy and **test that it works properly**.
 Finally, submit a [pull request](https://help.github.com/articles/using-pull-requests) to merge your modifications

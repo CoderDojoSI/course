@@ -19,7 +19,8 @@ Basics
 
 Scratch the surface
 -------------------
-* ![[1]][0] [Move the **light-Bot**](http://educative-games.org/#programming/light-bot-2) <!--- http://mark-byers.blogspot.com/2009/01/light-bot-in-131-commands.html -->
+* ![[1]][0] [Move the **light-Bot**](http://educative-games.org/#programming/light-bot-2)
+<!--- http://mark-byers.blogspot.com/2009/01/light-bot-in-131-commands.html -->
 * ![[2]][1] [Navigate the **Blockly Maze**](tasks/scratch_blockly_maze.md)
 * ![[3]][2] [**Scratch** out those interactive stories](tasks/scratch.md)
 * ![[4]][0] [Play **programming games**](tasks/play_games.md)
@@ -106,6 +107,7 @@ Miscellaneous
 * ![[4]][1] [Subscribe to daily **news from all fields of science**](tasks/zeitnews.md)
 * ![[5]][1] [Start your own **blog**!](tasks/write_blog.md)
 * ![[2]][2] [Become the **Architect**: Design your interior](tasks/interior_design.md)
+* ![[1]][1] [Pick Locks for Fun & Profit](tasks/lockpicking.md)
 
 Toys & Games
 ------------
@@ -132,3 +134,7 @@ You are free to play with any of these educative and illuminative games, but **o
 
 [![CC BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 ![Kopimi](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/kopimi.png)
+
+<!--[if IE]>
+[![Upgrade to Firefox](https://affiliates.mozilla.org/media/uploads/banners/c666430dcaa75c9f45beb5ece850f794747d1302.png)](http://affiliates.mozilla.org/link/banner/44894)
+<![endif]-->
