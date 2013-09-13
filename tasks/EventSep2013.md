@@ -23,6 +23,7 @@ Scratch the surface
 
 Programming
 -----------
+* ![[3]][2] [Learn **Python**](tasks/learn_python.md)
 * ![[2]][1] [Get to know the **primitive data types**](tasks/data_types.md)
 * ![[1]][1] [**Use GitHub** as source code repository](tasks/create_git.md)
 
