@@ -49,3 +49,6 @@ But **always save your progress** to hard disk, so you will be able to **recall 
 is an invaluable resource.
 Also look at [CSS](http://www.w3schools.com/html/html_css.asp) (for making pretty colors and shapes), 
 and some [JavaScript](http://www.w3schools.com/js/default.asp) (for programming dynamic, changing content).
+
+Found a possibly useful link, it's RasPy related, but as this is not hardware I just put it here temporarily, will move / remove accordingly upon discussion.
+[http://googlecreativelab.github.io/coder/](http://googlecreativelab.github.io/coder/)

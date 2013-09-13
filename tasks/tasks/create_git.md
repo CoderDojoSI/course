@@ -40,3 +40,4 @@ git init   - for creating a new repository
 You should also familiarize yourself with the GitHub interface, and **you will
 be quizzed** on these subjects.
 
+After familiarizing yourself with Git a bit, read this [Soft intro to Git](http://newcoder.io/begin/save-your-progress/)
