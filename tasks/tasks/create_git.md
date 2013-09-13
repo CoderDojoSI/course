@@ -12,10 +12,12 @@ Task
 ----
 Visit the [GitHub website](https://github.com/) and create an account.
 
-To get started with Git, follow **any two** of these tutorials:
+To get started with Git, follow **at least any two** of these tutorials:
 * http://try.github.io/levels/1/challenges/1/
 * http://learnxinyminutes.com/docs/git/
 * http://gitimmersion.com/lab_01.html
+
+Then, read this [soft intro to Git](http://newcoder.io/begin/save-your-progress/).
 
 Having a GitHub account will allow you to:
 * host freely your code, projects, and [websites](http://jekyllbootstrap.com/),
@@ -39,5 +41,3 @@ git init   - for creating a new repository
 ```
 You should also familiarize yourself with the GitHub interface, and **you will
 be quizzed** on these subjects.
-
-After familiarizing yourself with Git a bit, read this [Soft intro to Git](http://newcoder.io/begin/save-your-progress/)
