@@ -29,7 +29,7 @@ Programming
 -----------
 * ![[2]][1] [Get to know the **primitive data types**](tasks/data_types.md)
 * ![[1]][1] [**Use GitHub** as source code repository](tasks/create_git.md)
-* ![[3]][2] [Learn **Python**](tasks/learn_python.md)
+* ![[3]][2] [Learn **Python**](tasks/python.md)
 * ![[2]][2] [Learn **Ruby**](tasks/learn_ruby.md)
 * ![[2]][3] [**Test-driven development** (TDD) intro](tasks/TDD_koans.md)
 * TODO user interfaces,
