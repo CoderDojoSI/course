@@ -11,7 +11,7 @@ The operating systems you **should** be running are **_GNU/Linux_**,
 which inherit from Unix and add a great deal of other features.
 Even if you are running _Mac OS X_, you are on a Unix-type OS,
 but you are [tied into it more firmly](http://en.wikipedia.org/wiki/Vendor_lock-in).
-But you shouldn't ever be using **_Windows_**, because they are **evil and dumb**.
+But you shouldn't ever be using **_Windows_**, because Windows are **evil and dumb**.
 
 ![Linux/Windows/OS X from the POV of Mac/Win/Linux fag...](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/OS-POV.jpg)
 
@@ -24,8 +24,8 @@ ends with `#`, the user is `root` (e.g. highest-permission super-admin).
 
 The point of this command line is thus: You run a _program_ with some _arguments_.
 You can pass the program some input stream of bytes (called _standard input_), and
-the program can output some stream of bytes (_standard output_).
-You can chain several commands with _pipe_s (`|` symbol), which means the standard output
+the program can output some stream of bytes (called _standard output_).
+You can chain several commands with *pipe*s (`|` symbol), which means the standard output
 of the previous program is passed as standard input into the next.
 
 Example:

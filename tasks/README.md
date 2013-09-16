@@ -12,7 +12,7 @@ Do any of these tasks to earn points...
 
 Basics
 ------
-* ![[1]][1] [Create an **e-mail address**](tasks/create_email_address.md)
+* ![[1]][1] [Create an **e-mail address**](tasks/email.md)
 * ![[1]][1] [**Installing software** in GNU/Linux](tasks/install_software.md)
 * ![[5]][3] [Navigate the **Unix command line**](tasks/unix_command_line.md)
 * ![[3]][1] [Join us on **IRC**!](tasks/irc.md)
@@ -38,14 +38,14 @@ Programming
 * ![[2]][2] [Learn **Ruby**](tasks/ruby.md)
 * ![[2]][3] [**Test-driven development** (TDD) intro](tasks/TDD_koans.md)
 * ![[4]][4] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
-* ![[0]][5] Other resources:
-  * ![[0]][4] [Freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
+* ![[0]][4] Other resources:
+  * ![[0]][5] [Freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 
 ### Web programming ###
 * ![[2]][2] [**JavaScript**: The fun way](tasks/javascript_fun.md)
 * ![[2]][2] [**HTML/CSS/JS Basics**: Make your 1st website](tasks/1st_website.md)
-* ![[0]][5] Other resources:
-  * [[0]][4] [Front-end development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+* ![[0]][4] Other resources:
+  * ![[0]][5] [Front-end development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * ![[6]][5] Make a **real web application** in some web **framework**
 
 ### Programming Games ###
@@ -61,7 +61,7 @@ Programming
 * ![[8]][5] Apply to become a **Debian Maintainer**
 
 ### Mobile ###
-* ![[4]][4] [**Visual** programming of **mobile apps**](tasks/mobile_visual.md)
+* ![[4]][3] [**Visual** programming of **mobile apps**](tasks/mobile_visual.md)
 
 Research
 --------
@@ -80,7 +80,7 @@ Online Course
 * ![[2]][1] [Learn **touch typing**](tasks/touch_typing.md)
 * ![[2]][2] [**Power Searching** With Google](tasks/power_searching_google.md)
 * ![[7]][0] [¿Habla español? — **Learn a new language**!](tasks/new_language.md)
-* ![[6]][4] [Computer Science: University-level Course](cs_course.md)
+* ![[6]][4] [Computer Science: University-level Course](tasks/cs_course.md)
 
 Audio
 -----

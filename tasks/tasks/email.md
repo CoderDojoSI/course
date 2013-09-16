@@ -40,6 +40,7 @@ attending future CoderDojo events. This written statement is considered a contra
 and is binding as permitted by applicable law.
 
 My e-mail is: <YOUR EMAIL ADDRESS>
+I'd like my CoderDojo username to be: <YOUR DESIRER NICKNAME>
 
 Best Regards
 ```
