@@ -20,9 +20,11 @@ Basics
 Scratch the surface
 -------------------
 * ![[1]][0] [Move the **light-Bot**](http://educative-games.org/#programming/light-bot-2)
-<!--- http://mark-byers.blogspot.com/2009/01/light-bot-in-131-commands.html
-      He wrote a program to find the minimal (unreadable) solution for it.
-      Very nicely details how he limited and reduced the (very large) brute-force search space. :) -->
+<!---
+  http://mark-byers.blogspot.com/2009/01/light-bot-in-131-commands.html
+  He wrote a program to find the minimal (unreadable) solution for it.
+  Very nicely details how he limited and reduced the (very large) brute-force search space. :)
+-->
 * ![[2]][1] [Navigate the **Blockly Maze**](tasks/scratch_blockly_maze.md)
 * ![[3]][2] [**Scratch** out those interactive stories](tasks/scratch.md)
 * ![[4]][0] [Play **programming games**](tasks/play_games.md)
