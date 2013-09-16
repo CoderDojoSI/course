@@ -23,7 +23,7 @@ _Complete_ any of the following courses (or complete several for more points!):
 * [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html)
 * [Computer Science on Khan Academy](https://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 
-You are advised to first **take the time to** skim through all the tutorials and
+You are advised to first **take the time to skim through** all the tutorials and
 thoroughly **evaluate** them by language, clarity, overall length, and depth of covered 
 material. You are likely to expect any of these tutorials to take you **at least
 a week or two to complete** (depending solely on the level of your enthusiasm, of course),
@@ -38,14 +38,16 @@ see if you can help yourself by using this
 
 If you encounter errors, which every inspired programmer should, you can
 follow this flowchart to debug your program:
-![PythonForBiologists "My code isn't working" flowchart](http://i.imgur.com/WRuJV6r.png)
+![PythonForBiologists "My code isn't working" flowchart](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/python_error_debugging.png)
 
-Only _after you have completed_ at least one of the above tutorials, you can
+Only **after you have completed** at least one of the above tutorials, you can
 deepen your knowledge (not to mention earn extra points!) by completing also at least any one of these:
 * [Beginning Game Programming for Teens with Python](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python)
 * [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/)
 * [py4fun: Building a GUI Application with Tkinter](http://www.openbookproject.net/py4fun/gui/tkPhone.html)
 * [py4fun: Programming a video game](http://www.openbookproject.net/py4fun/lode/lode.html)
+* [Udacity CS101: Introduction to Computer Science](https://www.udacity.com/course/cs101)
+* [Udacity CS212: Design of Computer Programs](https://www.udacity.com/course/cs212)
 
 Note that you should always write your Python code mostly conformant to 
 [PEP-8 style guide](http://www.python.org/dev/peps/pep-0008/), and **preferrably 
