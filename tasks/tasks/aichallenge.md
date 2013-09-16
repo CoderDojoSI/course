@@ -17,7 +17,7 @@ Follow through all the 'Getting Started' guides on
 
 Then use the [Starter kit](http://aichallenge.org/starter_packages.php) to
 implement [innovative strategies](http://forums.aichallenge.org/viewforum.php?f=24) and
-write award-winning ants' AI in [your favorite programming language](learn_python.md).
+write award-winning ants' AI in [your favorite programming language](python.md).
 
 **Note**: If you absolutely can't find 4 participants to tackle your ants,
 you can **write AI for [realtimebattle robots](http://realtimebattle.sourceforge.net/)

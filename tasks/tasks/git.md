@@ -25,6 +25,8 @@ Having a GitHub account will allow you to:
 * contribute to many, many open-source projects,
 * maintain a history of all changes that you or other people make to the code. (So you can blame them for it not working.)
 
+See this [video by FOX News covering the GitHub](http://video.foxbusiness.com/v/2667694577001/writing-a-new-dictionary/) start-up.
+
 You **should use GitHub** repositories for all your programming projects, and
 you should be familiar at least with the following `git` commands:
 ```
@@ -41,3 +43,6 @@ git init   - for creating a new repository
 ```
 You should also familiarize yourself with the GitHub interface, and **you will
 be quizzed** on these subjects.
+
+**Tip**: After some experience with basic git, in a year or so,
+refer to [this site](http://teach.github.com/) to see if it has something interesting for you.

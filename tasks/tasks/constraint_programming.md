@@ -48,7 +48,7 @@ Task
 ----
 Your assignment is to **write a Sudoku solver in Python**. Don't fright, it's
 actually pretty easy-peasy, but you **should** be thoroughly familiar
-with [basic Python features and syntax](learn_python.md)!
+with [basic Python features and syntax](python.md)!
 
 Follow this short tutorial:
 * [Constraint programming in Python](http://agiliq.com/blog/2009/03/constraint-programming-in-python/)

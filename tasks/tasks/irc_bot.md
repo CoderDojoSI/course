@@ -2,7 +2,7 @@ Help build our IRC bot
 ======================
 
 After [you have joined us on IRC](irc.md) and after you have
-[sufficient knowledge of Python](learn_python.md), you can help extend the
+[sufficient knowledge of Python](python.md), you can help extend the
 functionality of our [IRC bot](http://en.wikipedia.org/wiki/Internet_Relay_Chat_bot).
 
 IRC bots are helpful and fun robots that can:

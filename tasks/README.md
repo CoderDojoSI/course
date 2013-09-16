@@ -28,9 +28,9 @@ Scratch the surface
 Programming
 -----------
 * ![[2]][1] [Get to know the **primitive data types**](tasks/data_types.md)
-* ![[1]][1] [**Use GitHub** as source code repository](tasks/create_git.md)
+* ![[1]][1] [**Use GitHub** as source code repository](tasks/git.md)
 * ![[3]][2] [Learn **Python**](tasks/python.md)
-* ![[2]][2] [Learn **Ruby**](tasks/learn_ruby.md)
+* ![[2]][2] [Learn **Ruby**](tasks/ruby.md)
 * ![[2]][3] [**Test-driven development** (TDD) intro](tasks/TDD_koans.md)
 * TODO user interfaces,
   * whatever this is http://lunduke.com/?page_id=3454 ; lots other kewl stuff on dls page
@@ -38,17 +38,17 @@ Programming
 * ![[4]][4] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
 
 ### Web programming ###
-* ![[2]][2] [Make your first Website](tasks/create_website.md)
-* ![[2]][2] [**JavaScript**: The Fun](tasks/javascript_fun.md)
-* ![[2]][2] The "old-school" way of JavaScript + jQuery
+* ![[2]][2] [**HTML Basics**: Make your 1st website](tasks/1st_website.md)
+* ![[2]][2] [**JavaScript**: The fun way](tasks/javascript_fun.md)
+* ![[2]][3] ---[JavaScript: The **old way**](tasks/javascript_old.md)
 * ![[3]][4] [A badass list of frontend development resources](https://gist.github.com/dypsilon/5819504) ### ( Should we filter this, or just let them explore? ( Fuck, this is huge ) )
 * ![[2]][3] TODO: Definite CSS styling guide
 * ![[6]][5] TODO: Make a webapp in web2py or NodeJS or some other framework
 
 ### Programming Games ###
-* ![[3]][3] [Create a HTML5 Game](tasks/create_html_game.md)
-* ![[3]][3] [First Python Game With PyGame](tasks/create_game_pygame.md)
-* ![[8]][5] [A.I. Challenge: **Real-Time Battle** of Warriors](tasks/aichallenge.md)
+* ![[3]][3] [Create a **HTML5 game** (canvas)](tasks/html_game.md)
+* ![[3]][3] [1st **Python game** with `pygame`](tasks/pygame.md)
+* ![[8]][5] [The A.I. Challenge: **Real-Time Battle** of Warriors](tasks/aichallenge.md)
 * TODO http://www.playmycode.com/
 * TODO http://pixieengine.com/ (docs?)
 
@@ -70,11 +70,11 @@ Programming
 Research
 --------
 * ![[2]][4] [Find a SLOC](tasks/Find_a_SLOC.md)
-* ![[5]][5] [OCR images with tesseract-ocr](tasks/images_OCR.md)
+* ![[5]][5] [OCR images with tesseract-ocr](tasks/tesseract.md)
 
 Read/Translate
 --------------
-* ![[3]][3] [Unix and Internet **Fundamentals** How-to](tasks/translate_TLDP_UIF.md)
+* ![[3]][3] [Unix and Internet **Fundamentals** How-to](tasks/TLDP_UIF.md)
 * ![[2]][4] [The **Unix Koans** of Master Foo](tasks/unix_koans.md)
 * ![[3]][4] [Freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 
@@ -87,13 +87,13 @@ Online Course
 
 Audio
 -----
-* ![[2]][1] [Edit audio files with Audacity](tasks/learn_audacity.md)
+* ![[2]][1] [Edit audio files with Audacity](tasks/audacity.md)
 * TODO Processing synthesizer?
 * TODO Python synthesizer
 
 Graphics
 -----
-* ![[2]][0] [Photoshop images with the GiMP](tasks/learn_gimp.md)
+* ![[2]][0] [Photoshop images with the GiMP](tasks/gimp.md)
 * TODO some computer vision fancy hard tutorials...
 
 DIY
@@ -106,7 +106,7 @@ DIY
 Miscellaneous
 -------------
 * ![[4]][1] [Subscribe to daily **news from all fields of science**](tasks/zeitnews.md)
-* ![[5]][1] [Start your own **blog**!](tasks/write_blog.md)
+* ![[5]][1] [Start your own **blog**!](tasks/blog.md)
 * ![[2]][2] [Become the **Architect**: Design your interior](tasks/interior_design.md)
 * ![[1]][1] [**Pick Locks** for Fun & Profit](tasks/lockpicking.md)
 
@@ -132,10 +132,5 @@ You are free to play with any of these educative and illuminative games, but **o
 [4]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_4.png "Level: advanced"
 [5]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_5.png "Level: master"
 
-
 [![CC BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 ![Kopimi](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/kopimi.png)
-
-<!--[if IE]>
-[![Upgrade to Firefox](https://affiliates.mozilla.org/media/uploads/banners/c666430dcaa75c9f45beb5ece850f794747d1302.png)](http://affiliates.mozilla.org/link/banner/44894)
-<![endif]-->
