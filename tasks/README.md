@@ -14,8 +14,8 @@ Basics
 ------
 * ![[1]][1] [Create an **e-mail address**](tasks/email.md)
 * ![[1]][1] [**Installing software** in GNU/Linux](tasks/install_software.md)
-* ![[5]][3] [Navigate the **Unix command line**](tasks/unix_command_line.md)
 * ![[3]][1] [Join us on **IRC**!](tasks/irc.md)
+* ![[5]][3] [Navigate the **Unix command line**](tasks/unix_command_line.md)
 
 Scratch the surface
 -------------------

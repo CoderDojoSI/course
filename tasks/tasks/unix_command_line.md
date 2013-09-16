@@ -25,7 +25,7 @@ ends with `#`, the user is `root` (e.g. highest-permission super-admin).
 The point of this command line is thus: You run a _program_ with some _arguments_.
 You can pass the program some input stream of bytes (called _standard input_), and
 the program can output some stream of bytes (called _standard output_).
-You can chain several commands with *pipe*s (`|` symbol), which means the standard output
+You can chain several commands with a _pipe_ (`|` symbol), which means the standard output
 of the previous program is passed as standard input into the next.
 
 Example:
