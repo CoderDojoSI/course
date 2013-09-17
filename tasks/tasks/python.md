@@ -22,9 +22,16 @@ _Complete_ any of the following courses (or complete several for more points!):
 * [A Byte of Python](http://swaroopch.com/notes/python/) (Chapters 8–17 apply)
 * [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html)
 * [Computer Science on Khan Academy](https://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
+* *[Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 
-You are advised to first **take the time to skim through** all the tutorials and
-thoroughly **evaluate** them by language, clarity, overall length, and depth of covered 
+Links marked with an **asterisk** (`*`) are **very advanced**
+and should only be attempted by highly
+talented, skilled, or patient students. These links, accordingly,
+cover many more relevant topics, resulting in a much
+[steeper learning curve](https://www.google.com/search?q=steep+learning+curve&tbm=isch).
+
+You are advised to first **take the time to skim through all the tutorials** and
+thoroughly **evaluate them** by language, clarity, overall length, and depth of covered 
 material. You are likely to expect any of these tutorials to take you **at least
 a week or two to complete** (depending solely on the level of your enthusiasm, of course),
 so better choose well-informed and wisely.
@@ -47,7 +54,7 @@ deepen your knowledge (not to mention earn extra points!) by completing also at 
 * [py4fun: Building a GUI Application with Tkinter](http://www.openbookproject.net/py4fun/gui/tkPhone.html)
 * [py4fun: Programming a video game](http://www.openbookproject.net/py4fun/lode/lode.html)
 * [Udacity CS101: Introduction to Computer Science](https://www.udacity.com/course/cs101)
-* [Udacity CS212: Design of Computer Programs](https://www.udacity.com/course/cs212)
+* *[Udacity CS212: Design of Computer Programs](https://www.udacity.com/course/cs212)
 
 Note that you should always write your Python code mostly conformant to 
 [PEP-8 style guide](http://www.python.org/dev/peps/pep-0008/), and **preferrably 

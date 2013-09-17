@@ -32,10 +32,11 @@ Scratch the surface
 
 Programming
 -----------
+* ![[3]][0] [Computational thinking](tasks/computational_thinking.md)
 * ![[2]][1] [Get to know the **primitive data types**](tasks/data_types.md)
-* ![[1]][1] [**Use GitHub** as source code repository](tasks/git.md)
 * ![[3]][2] [Learn **Python**](tasks/python.md)
 * ![[2]][2] [Learn **Ruby**](tasks/ruby.md)
+* ![[1]][1] [**Use GitHub** as source code repository](tasks/git.md)
 * ![[2]][3] [**Test-driven development** (TDD) intro](tasks/TDD_koans.md)
 * ![[4]][4] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.md)
 * ![[0]][4] Other resources:
@@ -46,7 +47,8 @@ Programming
 * ![[2]][2] [**HTML/CSS/JS Basics**: Make your 1st website](tasks/1st_website.md)
 * ![[0]][4] Other resources:
   * ![[0]][5] [Front-end development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-* ![[6]][5] Make a **real web application** in some web **framework**
+* ![[6]][5] Make a **real web application** in some web **framework** (web2py, node.js, ...):
+  * Idea: You can (ab)use various [programmable web APIs](http://www.programmableweb.com/)
 
 ### Programming Games ###
 * ![[3]][3] [Create a **HTML5 game** (canvas)](tasks/html_game.md)
@@ -80,7 +82,8 @@ Online Course
 * ![[2]][1] [Learn **touch typing**](tasks/touch_typing.md)
 * ![[2]][2] [**Power Searching** With Google](tasks/power_searching_google.md)
 * ![[7]][0] [¿Habla español? — **Learn a new language**!](tasks/new_language.md)
-* ![[6]][4] [Computer Science: University-level Course](tasks/cs_course.md)
+* ![[7]][4] [**Computer Science**: University-level Course](tasks/cs_course.md)
+* ![[7]][4] [Applied Real-World **Math**: University-level Course](tasks/math.md)
 
 Audio
 -----
@@ -98,7 +101,6 @@ Hardware
 * ![[0]][0] [DIY Hardware hacking](tasks/hw_hacking.md)
 * ![[4]][4] Raspberry Pi:
   * http://googlecreativelab.github.io/coder/
-
 
 Miscellaneous
 -------------
