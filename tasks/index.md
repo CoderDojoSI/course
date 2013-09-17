@@ -1,5 +1,9 @@
-Do any of these tasks to earn points...
-=======================================
+---
+layout: default
+title: Student Tasks
+---
+{{ page.title }}
+================
 
 <!--- Task rating format: ![[max_points_awarded]][difficulty_level]
       Manipulate max_points_awarded value so as to
@@ -112,6 +116,7 @@ Miscellaneous
 Toys & Games
 ------------
 You are free to play with any of these educative and illuminative games, but **only during recess**:
+
 * [Vim Snake](http://www.vimsnake.com/) — A game that will increase your **[vim](tasks/advanced_text_editing.md) skills**.
 * [Sense-Lang games](http://games.sense-lang.org/) — **Typing games** that will help you become a better keyboard user.
 * [Hacker.org puzzles](http://www.hacker.org/) — A collection of **puzzle games**.
@@ -130,10 +135,3 @@ You are free to play with any of these educative and illuminative games, but **o
 [3]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_3.png "Level: intermediate"
 [4]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_4.png "Level: advanced"
 [5]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_5.png "Level: master"
-
-[![CC BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-[![Kopimi](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/kopimi.png)](#)
-
-<!--[if IE]>
-[![Upgrade to Firefox](https://affiliates.mozilla.org/media/uploads/banners/c666430dcaa75c9f45beb5ece850f794747d1302.png)](http://affiliates.mozilla.org/link/banner/44894)
-<![endif]-->

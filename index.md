@@ -1,3 +1,8 @@
+---
+layout: default
+title: Course Dashboard
+---
+
 CoderDojo Course Dashboard
 ==========================
 

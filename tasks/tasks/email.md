@@ -1,5 +1,9 @@
-Create an email address
-=======================
+---
+layout: default
+title: Create an email account
+---
+{{ page.title }}
+================
 
 To sign up with various online services, you need an address where you can
 be reached. What better address than an e-mail address!
@@ -33,17 +37,20 @@ if you haven't already.
 Confirm completion of this task by sending an email to
 `coderdojo-instructors@coderdojo.si` with the subject line `New recruit reporting`
 and message text:
+
 ```
 Hi,
-My name is <YOUR FULL NAME>, I come from <YOUR CITY>, <COUNTRY>, and I will be
-attending future CoderDojo events. This written statement is considered a contract
-and is binding as permitted by applicable law.
+My name is <YOUR FULL NAME>, I come from <YOUR CITY>, <COUNTRY>,
+and I will be attending future CoderDojo events.
+This written statement is considered a contract and is binding
+as permitted by applicable law.
 
 My e-mail is: <YOUR EMAIL ADDRESS>
 I'd like my CoderDojo username to be: <YOUR DESIRER NICKNAME>
 
 Best Regards
 ```
+
 The email must be exactly as shown, otherwise it won't be accepted. You have one
 shot at this. It is very complicated. You have been warned.
 
