@@ -129,9 +129,9 @@ You are free to play with any of these educative and illuminative games, but **o
 
 
 
-[0]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_0.png "Level: ?"
-[1]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_1.png "Level: easy"
-[2]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_2.png "Level: novice"
-[3]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_3.png "Level: intermediate"
-[4]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_4.png "Level: advanced"
-[5]: https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/level_5.png "Level: master"
+[0]: /images/level_0.png "Level: ?"
+[1]: /images/level_1.png "Level: easy"
+[2]: /images/level_2.png "Level: novice"
+[3]: /images/level_3.png "Level: intermediate"
+[4]: /images/level_4.png "Level: advanced"
+[5]: /images/level_5.png "Level: master"

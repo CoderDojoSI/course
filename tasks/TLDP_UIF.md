@@ -9,7 +9,8 @@ Task
 ----
 Read (and possibly translate in parts into your native language) the following
 computer fundamentals guide:
-* http://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html
+
+* [The Linux Documentation Project: Unix & Internet Fundamentals](http://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 
 What you will acquire
 ---------------------

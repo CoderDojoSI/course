@@ -1,6 +1,6 @@
 ---
 layout: task
-title: Computer Science: University-level Course
+title: "Computer Science: University-level Course"
 ---
 {{ page.title }}
 ================
@@ -19,10 +19,6 @@ Algorithms are finite processes that if followed will solve the problem.
 
 Computer science can be thought of as the study of algorithms.
 
-Computer science is not the study of programming, whch is an important
-part of what a computer scientist does.
-Programming is often the way that we create a representation for our solutions.
-
 Preconditions
 -------------
 You MUST complete [computational thinking](computational_thinking.html) task
@@ -31,12 +27,14 @@ before this one, and some basic [Python](python.html) won't do harm either.
 Task
 ----
 Read the following short sections:
+
 * [What is computer science?](http://interactivepython.org/courselib/static/pythonds/Introduction/introduction.html#what-is-computer-science)
 * [What is Programming](http://interactivepython.org/courselib/static/pythonds/Introduction/introduction.html#what-is-programming)
 * [Why Study Data Structures and Abstract Data Types?](http://interactivepython.org/courselib/static/pythonds/Introduction/introduction.html#why-study-data-structures-and-abstract-data-types)
 * [Why Study Algorithms?](http://interactivepython.org/courselib/static/pythonds/Introduction/introduction.html#why-study-algorithms)
 
-Now follow one of these computer science **programs**:
+Now follow one of these computer science programs:
+
 * [Computer Science < Saylor.org](http://www.saylor.org/majors/computer-science/)
 
 Each program consists of several **courses** that you need to complete. And each

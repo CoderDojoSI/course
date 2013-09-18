@@ -15,6 +15,7 @@ Task
 ----
 Learn about **JavaScript and programming in general** through these interactive
 tutorials:
+
 * [Programming Basics](http://www.programmingbasics.org/)
 * [CrunchZilla Code Monster](http://www.crunchzilla.com/code-monster)
 

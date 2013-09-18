@@ -10,10 +10,7 @@ be reached**. What better address than an **e-mail address**!
 
 As this task, you need to create an email account with Google.
 
-Note that you address will look like:
-```
-<your.desired.username>@gmail.com
-```
+Note that you address will look like: `<your.desired.username>@gmail.com`
 
 You may wish to choose your desired username wisely. If so, your handle may
 accompany you for until you get weary of it, with much of your history at

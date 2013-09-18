@@ -15,6 +15,7 @@ and – obviously – well-written.
 Here are some failsafe recipes that will show you **how to write a blog** that
 might eventually become famous enough to even earn you a decent
 living all by itself:
+
 * [How to write a famous blog](http://www.wikihow.com/Write-a-Famous-Blog)
 * [12 DOs and DON'Ts of writing a blog](http://www.writersdigest.com/online-editor/the-12-dos-and-donts-of-writing-a-blog)
 * [Great blog content](http://www.problogger.net/how-to-write-great-blog-content/)

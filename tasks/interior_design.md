@@ -23,9 +23,10 @@ Your task is to [install sweethome3d](install_software.html) and
 To begin, you can follow this concise 10-minute [SweetHome3D tutorial](http://www.sweethome3d.com/documentation.jsp#videoTutorial).
 
 If you need additional 3D models of furniture or wall textures, find them here:
+
 * [Archive3D - Free 3D models](http://archive3d.net/)
-* http://www.sweethome3d.com/importModels.jsp
-* http://www.sweethome3d.com/importTextures.jsp
+* [SweetHome3D Models](http://www.sweethome3d.com/importModels.jsp)
+* [SweetHome3D Textures](http://www.sweethome3d.com/importTextures.jsp)
 
 If you **import an external model** from above links into your design,
 that should earn you extra points!

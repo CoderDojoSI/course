@@ -1,6 +1,6 @@
 ---
 layout: task
-title: Applied Real-World Math: University-level Course
+title: "Applied Real-World Math: University-level Course"
 ---
 {{ page.title }}
 ================
@@ -16,7 +16,8 @@ In the future, **only knowledge** will be of value.
 Task
 ----
 Take the Saylor.org's
-[applied Real-World Math course](http://en.wikipedia.org/wiki/Applied_science).
+[applied](http://en.wikipedia.org/wiki/Applied_science)
+[Real-World Math course](http://www.saylor.org/courses/rwm101/).
 
 It should take you under **400 hours** to complete.
-You will be eternally grateful to yourself for taking this course.
+You will be eternally grateful to yourself for taking this time.

@@ -24,6 +24,7 @@ match all of the specified constraints** (limits or rules regarding their values
 
 But this is internal to the interpreter. What you should worry about is 
 **decomposition of the problem** into specification of:
+
 * all variables that play part in your system,
 * all possible input values for each variable,
 * the constraining limits and rules that the interaction of these variables must conform to.
@@ -35,14 +36,15 @@ For example, if you were to solve a problem of two equations with two variables:
 ![3*x + 2*y = 7](http://chart.apis.google.com/chart?cht=tx&chl=3%5Ccdot x%2B2%5Ccdot y=7)
 
 You can decompose the problem into:
+
 * variables that play part in the system: **_x_** and **_y_**,
-* possible input values for _x_ and _y_: both can be any [**integer**](http://en.wikipedia.org/wiki/Integer) (-∞, ..., -2, -1, 0, 1, 2, ..., ∞)
+* possible input values for _x_ and _y_: both can be any [**integer**](http://en.wikipedia.org/wiki/Integer) (-Inf, ..., -2, -1, 0, 1, 2, ..., Inf)
 * the **constraints**:
   1. the equation `4*x + 3*y` must evaluate and be equal to `12`, and
   2. the equation `3*x + 2*y` must evaluate and be equal to `7`.
 
 The program automatically finds the solution, which is 
-_x=1_, _y=2_.
+`x=1, y=2`.
 
 Even though Python is a procedural language that requires you to specify
 exactly **what to do in steps** (e.g. how to do it), its powerful interpreted
@@ -55,11 +57,13 @@ actually pretty easy-peasy, but you **should** be thoroughly familiar
 with [basic Python features and syntax](python.html)!
 
 Follow this short tutorial:
+
 * [Constraint programming in Python](http://agiliq.com/blog/2009/03/constraint-programming-in-python/)
 
 Now you should revise [Sudoku rules](http://www.sudoku.name/rules/),
 if you don't know them already, and then figure out how to represent
 the 'Sudoku problem':
+
 * what are the **variables** in a game of Sudoku,
 * what are their **possible values**, and
 * what are the **constraints** that define the correct solution?
@@ -84,6 +88,7 @@ like to solve with constraint programming. You will get points accordingly.
 Similar problem suggestion
 --------------------------
 If you don't like Sudoku, perhaps you can solve this simple equation for us:
+
 ```
     W O O D Y
 +     W O O D
@@ -91,4 +96,4 @@ If you don't like Sudoku, perhaps you can solve this simple equation for us:
   P E C K E R
 ```
 We can't seem to remember what the correct numerical values for
-C, D, E, K, O, P, R, W, and Y are. Plx help.
+C, D, E, K, O, P, R, W, and Y are. Please help.

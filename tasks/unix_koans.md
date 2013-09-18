@@ -19,11 +19,12 @@ have made the machines we use today so great**!
 Task
 ----
 
-  1. Read the Wikipedia article on the
-     [philosophy of Unix](http://en.wikipedia.org/wiki/Unix_philosophy).
-     Verbally reiterating the commandments before bedtime will demonstrably
-     make you the **best** programmer!
-  2. Read [The Unix Koans of Master Foo](http://www.catb.org/~esr/writings/unix-koans/).
-     These are short, fun, and intelligent **stories with hidden meanings**,
-     and each contains a wise lesson, so you may like them.
+Read the Wikipedia article on the
+[philosophy of Unix](http://en.wikipedia.org/wiki/Unix_philosophy).
+Verbally reiterating the commandments before bedtime will demonstrably
+make you the **best** programmer!
+
+Read [The Unix Koans of Master Foo](http://www.catb.org/~esr/writings/unix-koans/).
+These are short, fun, and intelligent **stories with hidden meanings**,
+and each contains a wise lesson, so you may like them.
 

@@ -9,14 +9,21 @@
 <link rel="stylesheet" href="/style.css"/>
 </head>
 <body>
+
 {{ content }}
 
 <footer>
   <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="CC BY-NC-SA" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"/></a>
   <img alt="Kopimi" src="/images/kopimi.png"/>
   <!--[if IE]>
-  <a href="http://affiliates.mozilla.org/link/banner/44894"><img alt="Upgrade to Firefox" src="/tasks/resources/firefox.png"/></a>
+  <a href="http://affiliates.mozilla.org/link/banner/44894"><img alt="Upgrade to Firefox" src="/images/firefox.png"/></a>
   <![endif]-->
 </footer>
+
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+  // hide submenus by default, expand on click
+  $('li ul').hide().parent('li').click(function(){ $(this).children('ul').toggle(); });
+</script>
 </body>
 </html>

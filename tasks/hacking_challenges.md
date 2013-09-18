@@ -7,6 +7,7 @@ title: Hacking challenges
 
 The following sites offer various short challenges (mostly hacking challenges)
 categorized as:
+
 * JavaScript,
 * [Exploits](http://en.wikipedia.org/wiki/Exploit_%28computer_security%29),
 * [Cryptography](http://en.wikipedia.org/wiki/Cryptography),
@@ -22,23 +23,23 @@ categorized as:
 
 These are the sites we found:
 
-* http://www.wechall.net/challs
-* http://www.overthewire.org/wargames/bandit/
-* http://www.bright-shadows.net
-* http://www.net-force.nl/challenges/
-* https://www.hackthissite.org/
-* http://www.thisislegal.com/challenges
-* http://www.hacker.org/
-* http://www.javaist.com/rosecode/show.php?no=12
-* http://w3challs.com/
-* http://hack-me.org/
-* http://www.wargame.kr/
-* http://securityoverride.org/challenges/
-* http://www.smashthestack.org/
-* http://www.wixxerd.com/
-* http://www.rankk.org/
-* http://canyouhack.it/
-* http://www.enigmagroup.org/
+* [WeChall](http://www.wechall.net/challs)
+* [OverTheWire Wargames](http://www.overthewire.org/wargames/bandit/)
+* [Bright Shadows](http://www.bright-shadows.net)
+* [Net-Force.nl Challenges](http://www.net-force.nl/challenges/)
+* [HackThisSite](https://www.hackthissite.org/)
+* [ThisIsLegal challenges](http://www.thisislegal.com/challenges)
+* [Hacker.org](http://www.hacker.org/)
+* [Rosecode](http://www.javaist.com/rosecode/problems.php)
+* [W3Challs](http://w3challs.com/)
+* [Hack Me](http://hack-me.org/)
+* [Wargame.kr](http://www.wargame.kr/)
+* [Security Override](http://securityoverride.org/challenges/)
+* [Smash the stack!](http://www.smashthestack.org/)
+* [Wixxerd](http://www.wixxerd.com/)
+* [Rankk](http://www.rankk.org/)
+* [CanYouHack.it](http://canyouhack.it/)
+* [Enigma Group](http://www.enigmagroup.org/)
 
 Task
 ----

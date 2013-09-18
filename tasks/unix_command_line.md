@@ -15,7 +15,7 @@ Even if you are running _Mac OS X_, you are on a Unix-type OS,
 but you are [tied into it more firmly](http://en.wikipedia.org/wiki/Vendor_lock-in).
 But you shouldn't ever be using **_Windows_**, because Windows are **evil and dumb**.
 
-![Linux/Windows/OS X from the POV of Mac/Win/Linux fag...](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/OS-POV.jpg)
+![Linux/Windows/OS X from the POV of Mac/Win/Linux fag...](/images/OS-POV.jpg)
 
 See [why Linux is better](http://whylinuxisbetter.net/).
 

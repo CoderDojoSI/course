@@ -22,6 +22,6 @@ Complete the [Blockly Maze programming puzzle](http://blockly-demo.appspot.com/s
 
 For maximum points, you are required to **_export_ your solutions for
 mazes 7, 8, 9, and 10**. You can export your solutions with a "Share" link
-(![link](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/blockly_link_icon.png) icon).
+(![link](/images/blockly_link_icon.png) icon).
 Save the exported solutions and **show them (only!) to
 your instructors**.

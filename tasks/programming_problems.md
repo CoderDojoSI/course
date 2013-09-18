@@ -10,18 +10,20 @@ Now that you know some basic programming, preferably in
 
 If you're interested in such a thing, on these sites you can find
 general problems relevant to the venerable field of **mathematics**:
-* http://projecteureka.org/
-* http://projecteuler.net/problems
-* http://www.spoj.com/problems/classical/
+
+* [Project Eureka](http://projecteureka.org/)
+* [Project Euler](http://projecteuler.net/problems)
+* [SPhere Online Judge](http://www.spoj.com/problems/classical/)
 
 Or if those problems prove to be too hard for you to comprehend
 (i.e. you are not yet smart enough), try some of these, **easier** ones:
-* https://sites.google.com/site/tddproblems/all-problems-1
-* http://codingbat.com/python
-* http://www.checkio.org/
-* http://www.codechef.com/problems/easy
-* http://www.pythonchallenge.com/
-* http://www.reddit.com/r/dailyprogrammer
+
+* [TDD Problems](https://sites.google.com/site/tddproblems/all-problems-1)
+* [CodingBat Python](http://codingbat.com/python)
+* [CheckIO](http://www.checkio.org/)
+* [Code Chef Easy Problems](http://www.codechef.com/problems/easy)
+* [Python Challenge](http://www.pythonchallenge.com/)
+* [Reddit Daily Programmer](http://www.reddit.com/r/dailyprogrammer)
 
 Task
 ----

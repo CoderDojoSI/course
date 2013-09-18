@@ -28,7 +28,6 @@ the new code you've commited.
 
 Task
 ----
-
 [This repository](https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises)
 contains a taste of what TDD is like in the real world (in either Python, Ruby, JavaScript, ...).
 The code also adheres to [object-oriented programming](http://en.wikipedia.org/wiki/Object-oriented_programming) principles.
@@ -44,8 +43,7 @@ Your task will be to **write not the program but the tests for it**.
 This will provide a good introduction, or will deepen what you already know
 about the Python language and designing computer software in general.
 
-Follow the instructions here:
-* https://github.com/gregmalcolm/python_koans
+Follow the instructions here: [Python koans](https://github.com/gregmalcolm/python_koans)
 
 ### Ruby ###
 

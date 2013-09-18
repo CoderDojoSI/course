@@ -10,6 +10,7 @@ After [you have joined us on IRC](irc.html) and after you have
 functionality of our [IRC bot](http://en.wikipedia.org/wiki/Internet_Relay_Chat_bot).
 
 IRC bots are helpful and fun robots that can:
+
 * keep IRC channels 'alive' when few users are present,
 * help channel users to information about the channel or from the Web,
 * provide witty remarks...

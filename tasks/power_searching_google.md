@@ -1,12 +1,12 @@
 ---
 layout: task
-title: Power Searching With Google
+title: Power Searching with Google
 ---
 {{ page.title }}
 ================
 
 Complete the course provided by Google:
-http://www.powersearchingwithgoogle.com/
+[Power Searching with Google](http://www.powersearchingwithgoogle.com/)
 
 Just complete it. **Keep detailed record** of your progress and activity,
 and at the end, issue a concise report to your instructors.

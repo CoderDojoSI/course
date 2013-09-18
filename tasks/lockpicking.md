@@ -1,6 +1,6 @@
 ---
 layout: task
-title: Lockpicking: Opening locks without using a key
+title: "Lockpicking: Opening locks without using a key"
 ---
 {{ page.title }}
 ================
@@ -21,6 +21,7 @@ but you have to **bring your own locks**
 You will try to unlock (or _pick_) those locks with lockpicks.
 
 Study the lock mechanism until you understand how it works:
+
 * [How to Pick a Lock: 9 Steps](http://www.wikihow.com/Pick-a-Lock)
 * [Lockpicking Tutorial: How to pick a lock](http://www.youtube.com/watch?v=v9hhBJHfwJE)
 * [Lockpicking Tutorial: How to pick security pins](http://www.youtube.com/watch?v=1Lst6m5MZjw)

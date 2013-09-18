@@ -23,14 +23,13 @@ of objects) and many more types.
 
 Example
 -------
-
-variable name | variable type | example value (in variable)
-------------- | ------------- | ----------------------------
-counter       | int           | 2
-hello_text    | str           | "Hello, world!"
-PI            | float         | 3.1415926
-list_of_ints  | list          | \[1, 2, 0, 4\]
-
+<table>
+<tr><th>variable name</th><th>variable type</th><th>example value (of variable)</th></tr>
+<tr><td>counter</td><td>int</td><td>2</td></tr>
+<tr><td>hello_text</td><td>str</td><td>"Hello, world!"</td></tr>
+<tr><td>PI</td><td>float</td><td>3.1415926</td></tr>
+<tr><td>list_of_ints</td><td>list</td><td>[4, 1, 2, 0]</td></tr>
+</table>
 
 The choice of **variable name** lies with the programmer. The code is only readable when names are chosen wisely.
 
@@ -47,6 +46,7 @@ of [tabular information](http://en.wikipedia.org/wiki/Table_%28information%29)
 comparing different popular types.
 
 Some of the **information you MUST include** is:
+
 * **common type names** across various computer languages (Python, C, Java, ... — Google it!),
 * **length** of objects of certain type (in [bytes](http://simplyted.blogspot.com/2005/12/how-to-visualize-data.html)),
 * **for what kind of data** can the type be used **most effectively**,

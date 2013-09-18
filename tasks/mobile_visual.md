@@ -15,7 +15,7 @@ Code them!
 
 If you want to make an app for Android, code it in Java.
 If you want to make it for iOS, code it in Objective-C.
-If you want to make it for other platforms, you can use HTML+JavaScript.
+If you want to make it for other platforms, you can use HTML & JavaScript.
 **What a mess**!
 
 **If you want to make a mobile app**, use a visual programming tool that is
@@ -24,6 +24,7 @@ If you want to make it for other platforms, you can use HTML+JavaScript.
 Task
 ----
 Learn your options. You can use
+
 * [MIT AppInventor](http://appinventor.mit.edu/explore/) (recommended),
 * [Bryan Lunduke's visual software creator/make-inator](http://lunduke.com/?page_id=3454),
 * [appery.io](http://appery.io/).

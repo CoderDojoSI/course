@@ -15,7 +15,6 @@ as any other language, and everything that can be computed, can also be computed
 
 Tasks
 -----
-
 Learn Ruby.
 
 You should start by reading [this poignant guide to Ruby](http://mislav.uniqpath.com/poignant-guide/).
@@ -24,7 +23,8 @@ If you are already proficient in another programming language, like [Python](pyt
 you can go over the faster [Ruby in 20 minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
 guide, and/or [Ruby Koans](TDD_koans.md#ruby).
 
-Now, **complete** (at least) one of these courses: 
+Now, **complete** (at least) one of these courses:
+
 * [Learn Ruby the hard way](http://ruby.learncodethehardway.org/book/)
 * [Hackety Hack](http://hackety.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)

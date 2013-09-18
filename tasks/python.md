@@ -7,9 +7,7 @@ title: Learn Python
 
 Programming is most of all fun! Everybody should learn **at least some** programming.
 
-* What Most Schools Don't Teach → http://www.youtube.com/watch?v=nKIu9yen5nc
-
-------------------------------------------------------------------------------
+* [What Most Schools Don't Teach](http://www.youtube.com/watch?v=nKIu9yen5nc)
 
 There are many [programming languages](http://en.wikipedia.org/wiki/Programming_language)
 available today, and the choice is vast, but with this task, we will focus
@@ -19,6 +17,7 @@ general-purpose programming language around. You will learn it now.
 Task
 ----
 _Complete_ any of the following courses (or complete several for more points!):
+
 * [**Non-Programmer's Tutorial for Python 3**](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/html/index.html)
 * [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/index.html)
@@ -49,10 +48,11 @@ see if you can help yourself by using this
 
 If you encounter errors, which every inspired programmer should, you can
 follow this flowchart to debug your program:
-![PythonForBiologists "My code isn't working" flowchart](https://github.com/CoderDojoSI/ideas/raw/master/tasks/resources/python_error_debugging.png)
+![PythonForBiologists "My code isn't working" flowchart](/images/python_error_debugging.png)
 
 Only **after you have completed** at least one of the above tutorials, you can
 deepen your knowledge (not to mention earn extra points!) by completing also at least any one of these:
+
 * [Beginning Game Programming for Teens with Python](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python)
 * [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/)
 * [py4fun: Building a GUI Application with Tkinter](http://www.openbookproject.net/py4fun/gui/tkPhone.html)

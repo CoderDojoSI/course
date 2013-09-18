@@ -22,6 +22,7 @@ than most in your class.
 Task
 ----
 Create an account on all these sites:
+
 * [Duolingo](http://www.duolingo.com/)
 * [Livemocha](http://livemocha.com/)
 * [Memrise](http://www.memrise.com/)
