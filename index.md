@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: base
 title: Course Dashboard
 ---
 
 CoderDojo Course Dashboard
 ==========================
 
-[Course tasks](tasks/README.md)
+[Course tasks](tasks.html)
 
