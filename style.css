@@ -73,9 +73,10 @@ hr {
 p, blockquote, ul, ol, dl, table, pre {
   margin: 1em 0;
 }
+ul {margin-top:-.8em;}
 li {margin:0em;}
-.mainpage ul li {list-style-type:none;}
 ul ul {margin:.2em 0 !important;}
+.mainpage ul li {list-style-type:none;}
 
 img { max-width:100%; }
 

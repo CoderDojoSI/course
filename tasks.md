@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tasks
 title: Student Task List
 ---
 {{ page.title }}

@@ -7,6 +7,7 @@
 <!--[if lt IE 9]><script async="true" src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.js"></script><![endif]-->
 <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/2.1.0/normalize.min.css"/>
 <link rel="stylesheet" href="/style.css"/>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 </head>
 <body>
 
@@ -20,23 +21,6 @@
   <![endif]-->
 </footer>
 
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script>
-  // hide submenus by default, expand on click
-  var li = $('li ul, li ol').css({'cursor':'auto', 'list-style-image':'none'}).hide().parent('li');
-  li.css({
-    'list-style-image':'url("/images/bullet-expandable.png")',
-    'cursor':'pointer'
-  });
-  li.click(function(){
-    var el = $(this);
-    if (el.css('list-style-image').indexOf('expanded') == -1)
-      el.css('list-style-image', 'url("/images/bullet-expanded.png")');
-    else
-      el.css('list-style-image', 'url("/images/bullet-expandable.png")');
-    el.children('ul').toggle(200);
-  });
-  //li.children('ul').children('li').css('list-style-image', 'none');
-</script>
+
 </body>
 </html>

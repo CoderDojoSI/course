@@ -6,5 +6,7 @@ title: Course Dashboard
 CoderDojo Course Dashboard
 ==========================
 
-[Course tasks](tasks.html)
+[Student Tasks](tasks.html)
+
+[Leaderboard](leaderboard.html)
 
