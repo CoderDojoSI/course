@@ -1,0 +1,49 @@
+---
+layout: page
+title: Leaderboard
+students:
+  - name: Isaac Newton
+    nick: newton
+    task: [python, ruby, scratch]
+  - name: Lynus Torvoltos
+    nick: dummy
+    task: [python, ruby, power_searching_google, unix_koans]
+---
+<h1>{{ page.title }}</h1>
+
+<div id="leaderboard">
+</div>
+
+<script>
+  var students = {
+    {% for s in page.students %}'{{s.nick}}':['{{ s.task | join: "','" }}'],{% endfor %}
+  };
+  var tasks = [];
+  var leaderboard = $('#leaderboard');
+  leaderboard.html('Refreshing scores...');
+  $.get('/tasks.html', function(data) {
+    // parse each task worth
+    $(data).find('ul li a[href^="tasks/"]').each(function() {
+      var a = $(this);
+      try {
+        var name = a.attr('href').substring(6, a.attr('href').length - 5);
+        var points = parseInt(a.prev('img').attr('alt').replace('[','').replace(']', ''));
+        tasks[name] = points;
+      } catch (err) {
+        // some inline links, like [vim]
+      }
+    });
+    leaderboard.html('<ol></ol>');
+    var scores = [];
+    for (s in students) {
+      var total = 0;
+      for (var task=0; task<students[s].length; ++task)
+        total += tasks[students[s][task]];
+      scores.push([s, total]);
+    }
+    scores.sort(function (a,b) { return b[1] - a[1]; });
+    for (var i=0; i<scores.length; ++i) {
+      $('#leaderboard ol').append('<li>' + scores[i][0] + ' (' + scores[i][1] + ')</li>');
+    }
+  });
+</script>
