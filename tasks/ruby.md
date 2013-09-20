@@ -21,7 +21,7 @@ You should start by reading [this poignant guide to Ruby](http://mislav.uniqpath
 
 If you are already proficient in another programming language, like [Python](python.html),
 you can go over the faster [Ruby in 20 minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
-guide, and/or [Ruby Koans](TDD_koans.md#ruby).
+guide, and/or [Ruby Koans](TDD_koans.html#ruby).
 
 Now, **complete** (at least) one of these courses:
 
