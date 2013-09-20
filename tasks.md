@@ -53,6 +53,8 @@ Programming
   * ![[0]][5] [Front-end development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * ![[6]][5] Make a **real web application** in some web **framework** (web2py, node.js, ...):
   * Idea: You can (ab)use various [programmable web APIs](http://www.programmableweb.com/)
+* ![[0]][5] Other resources:
+  * ![[0]][5] [jsGameWiki](https://github.com/DaRaFF/jsgamewiki)
 
 ### Programming Games ###
 * ![[3]][3] [Create a **HTML5 game** (canvas)](tasks/html_game.html)
