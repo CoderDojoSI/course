@@ -23,6 +23,8 @@ Documentaries
 * [The History of Mathematics](http://www.dnatube.com/video/6534/The-History-of-Mathematics--BBC-doc-part1)
 
 ### Physics ###
+* [The Symphony of Science: The Quantum World](http://www.youtube.com/watch?v=DZGINaRUEkU)
+* [Veritasium: Test Yourself!](http://www.youtube.com/watch?v=vWVZ6APXM4w&list=PLkahZjV5wKe8WFEwvs69V7JO-Cx57rZ8W)
 * [The Cosmos: A Personal Voyage](http://www.youtube.com/watch?v=ClPShKs9Kr0)
 * [Amazing Resonance Experiment](http://www.youtube.com/watch?v=wvJAgrUBF4w)
 * [Amazing anamorphic illusions](http://www.youtube.com/watch?v=tBNHPk-Lnkk)
