@@ -36,24 +36,23 @@ Scratch the surface
 
 Programming
 -----------
-* ![[3]][0] [Computational thinking](tasks/computational_thinking.html)
+* ![[3]][0] [**Computational thinking**](tasks/computational_thinking.html)
 * ![[2]][1] [Get to know the **primitive data types**](tasks/data_types.html)
 * ![[3]][2] [Learn **Python**](tasks/python.html)
 * ![[2]][2] [Learn **Ruby**](tasks/ruby.html)
 * ![[1]][1] [**Use GitHub** as source code repository](tasks/git.html)
 * ![[2]][3] [**Test-driven development** (TDD) intro](tasks/TDD_koans.html)
 * ![[4]][4] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.html)
-* ![[0]][4] Other resources:
+* ![[0]][0] Other resources:
   * ![[0]][5] [Freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 
 ### Web programming ###
 * ![[2]][2] [**JavaScript**: The fun way](tasks/javascript_fun.html)
 * ![[2]][2] [**HTML/CSS/JS Basics**: Make your 1st website](tasks/1st_website.html)
-* ![[0]][4] Other resources:
-  * ![[0]][5] [Front-end development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * ![[6]][5] Make a **real web application** in some web **framework** (web2py, node.js, ...):
   * Idea: You can (ab)use various [programmable web APIs](http://www.programmableweb.com/)
-* ![[0]][5] Other resources:
+* ![[0]][0] Other resources:
+  * ![[0]][5] [Front-end development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
   * ![[0]][5] [jsGameWiki](https://github.com/DaRaFF/jsgamewiki)
 
 ### Programming Games ###
@@ -81,7 +80,7 @@ Read/Translate
 * ![[3]][3] [Unix and Internet **Fundamentals** How-to](tasks/TLDP_UIF.html)
 * ![[2]][4] [The **Unix Koans** of Master Foo](tasks/unix_koans.html)
 * ![[0]][4] **Overview**: Comparison of popular **programming languages**
-  * http://www.ariel.com.au/a/teaching-programming.html
+  * [http://www.ariel.com.au/a/teaching-programming.html](http://www.ariel.com.au/a/teaching-programming.html)
 
 Online Course
 -------------
@@ -106,7 +105,7 @@ Hardware
 * ![[0]][0] [Crafting / Building](tasks/crafting.html)
 * ![[0]][0] [DIY Hardware hacking](tasks/hw_hacking.html)
 * ![[4]][4] Raspberry Pi:
-  * http://googlecreativelab.github.io/coder/
+  * [http://googlecreativelab.github.io/coder/](http://googlecreativelab.github.io/coder/)
 
 Miscellaneous
 -------------

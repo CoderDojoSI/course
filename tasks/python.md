@@ -54,6 +54,7 @@ Only **after you have completed** at least one of the above tutorials, you can
 deepen your knowledge (not to mention earn extra points!) by completing also at least any one of these:
 
 * [Beginning Game Programming for Teens with Python](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python)
+* [Introduction to Interactive Programming in Python: Build your own mini-games](https://www.coursera.org/course/interactivepython)
 * [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/)
 * [py4fun: Building a GUI Application with Tkinter](http://www.openbookproject.net/py4fun/gui/tkPhone.html)
 * [py4fun: Programming a video game](http://www.openbookproject.net/py4fun/lode/lode.html)

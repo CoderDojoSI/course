@@ -36,6 +36,18 @@ such as multi-protocol [Pidgin](http://pidgin.im/) or similar:
 You can [check the room out online](http://webchat.freenode.net/?channels=%23coderdojo.si),
 but we strongly advise setting it up in a standalone client.
 
+###### Tip ######
+You can even [connect to IRC through `telnet`](http://www.anta.net/misc/telnet-troubleshooting/irc.shtml).
+[Telnet](http://en.wikipedia.org/wiki/Telnet) is a simple network protocol
+(and corresponding [command-line](unix_command_line.html) utility)
+that passes text streams between client and server.
+The program can thus be used to model several more complex protocols (e.g.
+[HTTP](http://en.wikipedia.org/wiki/HTTP#Example_session),
+[FTP](http://papa.det.uvigo.es/~theiere/cursos/Curso_FTP/session.html),
+[WHOIS](http://www.anta.net/misc/telnet-troubleshooting/whois.shtml), ...).
+**Connect to #coderdojo.si also through `telnet`**.
+
+
 The points for this task are only awarded
 **when you have been seen [lurking](http://en.wikipedia.org/wiki/Lurker)**
 in the channel relatively frequently for **at least month**, and/or you
