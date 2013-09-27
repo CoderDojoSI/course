@@ -22,6 +22,8 @@ Specific computational thinking techniques include:
 * **algorithm** design, and
 * data analysis and **visualization**.
 
+![decision tree](/images/bebras.png)
+
 Why learn this?
 ---------------
 **Computational thinking will become a critical skill** for 21st-century students.
@@ -49,6 +51,8 @@ Task
 1. Read the following short introduction by Google:
 [Exploring Computational Thinking](http://www.google.com/edu/computational-thinking/what-is-ct.html)
 2. Click on and **study all** of these [Bebras.org Task Examples](http://bebras.lt/bebras.org/?q=examples).
+   Try to **answer the questions without seeing the solutions** first.
+   If you find any example hard, don't hesitate to ask for help.
 3. Solve the 7-minute [Bebras Mini-contest](http://bebras.lt/bebras.org/?q=solve) and see how you did.
 
 Additionally, read this
