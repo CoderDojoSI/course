@@ -23,7 +23,7 @@ Basics
 
 Scratch the surface
 -------------------
-* ![[1]][0] [Move the **light-Bot**](http://educative-games.org/#programming/light-bot-2)
+* ![[0]][0] [Move the **light-Bot**](http://educative-games.org/#programming/light-bot-2)
 * ![[2]][1] [Navigate the **Blockly Maze**](tasks/scratch_blockly_maze.html)
 * ![[3]][2] [**Scratch** out those interactive stories](tasks/scratch.html)
 * ![[4]][0] [Play **programming games**](tasks/play_games.html)
@@ -43,15 +43,15 @@ Programming
 * ![[1]][1] [**Use GitHub** as source code repository](tasks/git.html)
 * ![[2]][3] [**Test-driven development** (TDD) intro](tasks/TDD_koans.html)
 * ![[4]][4] [Win any game by cheating with **constraint programming**](tasks/constraint_programming.html)
-* ![[0]][0] Other resources:
+* ![[0]][0] Other resources
   * ![[0]][5] [Freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926)
 
 ### Web programming ###
 * ![[2]][2] [**JavaScript**: The fun way](tasks/javascript_fun.html)
 * ![[2]][2] [**HTML/CSS/JS Basics**: Make your 1st website](tasks/1st_website.html)
-* ![[6]][5] Make a **real web application** in some web **framework** (web2py, node.js, ...):
+* ![[6]][5] Make a **real web application** in some web **framework**
   * Idea: You can (ab)use various [programmable web APIs](http://www.programmableweb.com/)
-* ![[0]][0] Other resources:
+* ![[0]][0] Other resources
   * ![[0]][5] [Front-end development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
   * ![[0]][5] [jsGameWiki](https://github.com/DaRaFF/jsgamewiki)
 
@@ -81,6 +81,8 @@ Read/Translate
 * ![[2]][4] [The **Unix Koans** of Master Foo](tasks/unix_koans.html)
 * ![[0]][4] **Overview**: Comparison of popular **programming languages**
   * [http://www.ariel.com.au/a/teaching-programming.html](http://www.ariel.com.au/a/teaching-programming.html)
+  * [http://www.jvoegele.com/software/langcomp.html](http://www.jvoegele.com/software/langcomp.html)
+  * [http://en.wikipedia.org/wiki/Hello_world_program_examples](http://en.wikipedia.org/wiki/Hello_world_program_examples)
 
 Online Course
 -------------
@@ -104,7 +106,7 @@ Hardware
 * ![[2]][3] LEGO Mindstorms NXT
 * ![[0]][0] [Crafting / Building](tasks/crafting.html)
 * ![[0]][0] [DIY Hardware hacking](tasks/hw_hacking.html)
-* ![[4]][4] Raspberry Pi:
+* ![[4]][4] Raspberry Pi
   * [http://googlecreativelab.github.io/coder/](http://googlecreativelab.github.io/coder/)
 
 Miscellaneous
@@ -113,6 +115,7 @@ Miscellaneous
 * ![[5]][1] [Start your own **blog**!](tasks/blog.html)
 * ![[2]][2] [Become the **Architect**: Design your interior](tasks/interior_design.html)
 * ![[1]][1] [**Pick Locks** for Fun & Profit](tasks/lockpicking.html)
+* ![[0]][0] [**Meditation** for Success](tasks/meditation.html)
 
 Toys & Games
 ------------

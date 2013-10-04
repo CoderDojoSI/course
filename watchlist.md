@@ -13,6 +13,7 @@ Documentaries
 * [BBS documentary](http://www.youtube.com/watch?v=JnSz-Hb9LQY)
 * [Hippies from hell](http://www.youtube.com/watch?v=TuOOmjdYEt8)
 * [How Hackers Changed the World](http://www.youtube.com/watch?v=Rj35GguOAGE)
+* [Unicode and UTF-8](http://www.youtube.com/watch?v=MijmeoH9LT4)
 * [...more Hackvids](http://hackvids.apostolidis.net)
 
 ### Mathematics ###

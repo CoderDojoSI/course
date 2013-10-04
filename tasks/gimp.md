@@ -27,6 +27,10 @@ For starters, you can follow some tutorials that you find interesting:
 * [Graffiti Tutorial](http://gimp-tutorials.net/Graffiti-Tutorial)
 * [Official Gimp tutorials](http://www.gimp.org/tutorials/)
 
+Short interesting YouTube tutorials:
+
+* [GiMP's Resynthesizer Tool - Heal selection](http://www.youtube.com/watch?v=0AoobQQBeVc)
+
 ###### Tip ######
 You can cut out objects out of existing pictures you have — you don't need to draw them from start.
 
