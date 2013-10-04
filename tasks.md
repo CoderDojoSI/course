@@ -14,6 +14,15 @@ title: Student Task List
           make no one cry.
 -->
 
+Complete any of these tasks to earn points towards your high score on the [leaderboard](leaderboard.html).
+
+You are advised to examine all tasks, but only pick up those that you feel
+comfortable with solving. You should advance the tasks roughly by increasing hardness: &nbsp;
+![[1]][1]![[2]][2]![[3]][3]![[4]][4]![[5]][5].
+
+After completion of each task, refer to your instructors.
+If you have questions, refer to your instructors.
+
 Basics
 ------
 * ![[1]][1] [Create an **e-mail address**](tasks/email.html)

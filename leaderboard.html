@@ -2,21 +2,31 @@
 layout: page
 title: Leaderboard
 students:
-  - name: Isaac Newton
-    nick: newton
-    task: [python, ruby, scratch]
-  - name: Lynus Torvoltos
-    nick: dummy
-    task: [python, ruby, power_searching_google, unix_koans]
+  - nick: Dummy
+    task: [email]
+  - nick: Novice
+    task: [email, install_software, computational_thinking, scratch_blockly_maze]
+  - nick: Apprentice
+    task: [email, install_software, computational_thinking, data_types, python, git, 1st_website]
+  - nick: Journeyman
+    task: [email, install_software, computational_thinking, data_types, python, git, constraint_programming, javascript_fun, 1st_website, unix_koans, unix_command_line]
+  - nick: Master
+    task: [email, install_software, computational_thinking, data_types, python, git, constraint_programming, javascript_fun, 1st_website, unix_koans, unix_command_line, pygame, touch_typing, power_searching_google, audacity, gimp]
+    
+
+REMINDER: "Add _name_ (real name) value for real 'leaders'."
 ---
 <h1>{{ page.title }}</h1>
+
+<p>The list of leaders by points awarded.
+Complete <a href="tasks.html">tasks</a> to earn more points.</p>
 
 <div id="leaderboard">
 </div>
 
 <script>
   var students = {
-    {% for s in page.students %}'{{s.nick}}':['{{ s.task | join: "','" }}'],{% endfor %}
+    {% for s in page.students %}'{{ s.nick }}':['{{ s.task | join: "','" }}'],{% endfor %}
   };
   var tasks = [];
   var leaderboard = $('#leaderboard');
