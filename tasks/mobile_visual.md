@@ -26,6 +26,7 @@ Task
 Learn your options. You can use
 
 * [MIT AppInventor](http://appinventor.mit.edu/explore/) (recommended),
+* [Mozilla AppMaker](http://appmaker.mozillalabs.com/designer)
 * [Bryan Lunduke's visual software creator/make-inator](http://lunduke.com/?page_id=3454),
 * [appery.io](http://appery.io/).
 
