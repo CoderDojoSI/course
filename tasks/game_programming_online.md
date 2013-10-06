@@ -9,6 +9,8 @@ Task
 ----
 Create a game in one of these environments:
 
+* [Puzzlescript](http://www.puzzlescript.net/)
+   PuzzleScript is a **game engine** designed to help you make **tile-based puzzle games.** 
 * [PixieEngine](http://pixieengine.com/),
   requires knowledge of [**JavaScript**](1st_website.html)
   and [CoffeeScript](http://coffeescript.org/) or something in-between,
