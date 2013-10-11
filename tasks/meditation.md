@@ -15,9 +15,9 @@ By meditating daily, you will be able to:
 
 * maintain mental health,
 * learn to make stress void,
-* better enjoy the good music,
 * help others overcome their problems,
 * get all permanent rewards,
+* better enjoy good music,
 * achieve study success,
 * never be lonely,
 * never get sick,
@@ -32,8 +32,8 @@ By meditating daily, you will be able to:
 * discover your purpose(s),
 * be more happy in general.
 
-Vipassana meditaion technique
------------------------------
+Vipassana meditation technique
+------------------------------
 One meditation technique is called _Vipassana meditation_ which is the
 method taught prominently by _Gautama Buddha_. It goes roughly like this:
 
@@ -41,11 +41,12 @@ method taught prominently by _Gautama Buddha_. It goes roughly like this:
 2. Focus on your respiration (breathing).
    Observe how when you _inhale_, your navel goes outwards as your chest cavity expands,
    stop for a moment,
-   and when you ever so *slowly* _exhale_, notice your heart rhythm settling.
-3. While respiring softly as you do naturally, observe the air flow through your **nostrils**,
-   the feeling it is creating.
+   and when you ever so *slowly* _exhale_, notice your heart rhythm settling
+   at a natural level.
+3. While respiring softly as you do naturally, observe the air flow through your **nostrils**
+   and the feeling it is creating.
 4. Repeat step 3.
-5. When you, after a while, first notice that, in fact, you are now thinking
+5. When, after a while, you first notice that, in fact, you are now thinking
    about something completely different, a past or future or potential errand or event or such,
    become aware of it and just **calmly return to step 2**.
 
