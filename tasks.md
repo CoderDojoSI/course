@@ -66,8 +66,8 @@ Programming
 
 ### Programming Games ###
 * ![[3]][3] [Create a **HTML5 game** (canvas)](tasks/html_game.html)
-* ![[3]][3] [1st **Python game** with `pygame`](tasks/pygame.html)
-* ![[3]][5] [**Game Programming** in the **Cloud**](tasks/game_programming_online.html)
+* ![[3]][3] [1st **Python game** with `Pygame`](tasks/pygame.html)
+* ![[3]][5] [**Game Programming** online](tasks/game_programming_online.html)
 * ![[8]][5] [The A.I. Challenge: **Real-Time Battle** of Warriors](tasks/aichallenge.html)
 
 ### Real-world problems ###
@@ -132,6 +132,7 @@ You are free to play with any of these educative and illuminative games, but **o
 
 * [Vim Snake](http://www.vimsnake.com/) — A game that will increase your **[vim](tasks/advanced_text_editing.html) skills**.
 * [Sense-Lang games](http://games.sense-lang.org/) — **Typing games** that will help you become a better keyboard user.
+* [T in Y world](http://tinyworld.spacebar.org/)
 * [Hacker.org puzzles](http://www.hacker.org/) — A collection of **puzzle games**.
 * [Educational programming games](http://educative-games.org/) — Several fun games that introduce the **basic patterns of programming**.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior/) — Fight your way through a horde of monsters with your **Ruby programming** skills.
