@@ -62,7 +62,8 @@ After you're done, **skim through** these pages very briefly:
 * [List of Unix Utilities](http://en.wikipedia.org/wiki/List_of_Unix_utilities)
   — just a short reference of what is at your disposal at nearly any Unix machine,
 * [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard#Directory_structure)
-  — the standard directory structure of Linux.
+  — the standard directory structure of Linux,
+* [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml).
 
 If you are **feeling masochistic** yet, dive into these (optional but benefiting) tutorials as well:
 
@@ -83,6 +84,6 @@ If you **don't know what program** you need to accomplish something, type
 Try it now.
 
 ```
-man apropos
+man apropos    # exit the manual by pressing Q
 apropos -s1 game
 ```
