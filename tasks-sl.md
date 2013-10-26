@@ -1,6 +1,6 @@
 ---
 layout: tasks
-title: Naloge za učence
+title: Naloge za CoderDojo vajence
 lang: sl
 ---
 {{ page.title }}
@@ -15,13 +15,14 @@ Načeloma naj bi jih reševal po naraščajoči težavnosti: &nbsp;
 Ko končaš vsako nalogo, se obrni na mentorje.
 Če imaš vprašanja, se obrni na mentorje ali, če je primerno, vprašaj za pomoč soudeležence.
 
-Več nalog najdeš v [angleščini](tasks.html).
+Več nalog najdeš v [angleškem jeziku](tasks.html).
 
 <!--- Task rating format: ![[max_points_awarded]][difficulty_level] -->
 
 Osnove
 ------
 * ![[1]][1] [Ustvari si **Google račun**](https://accounts.google.com/SignUp)
+* ![[3]][2] [Uganke računalniške znanosti](http://euganke.fri.uni-lj.si/)
 
 Scratch
 -------------------
@@ -36,7 +37,7 @@ Programiranje
 * ![[3]][2] [Kako naredimo...v programskem jeziku **C**](http://studentski.net/get/ulj_fri_ri3_pr2_sno_kako_naredimo_v_c_01.pdf)
 * ![[1]][2] [Kako naredimo...v programskem jeziku **Java**](http://studentski.net/get/ulj_fri_ri3_pr2_sno_kako_naredimo_v_javi_01.pdf)
 * ![[3]][2] [Uvod v **Python**](http://trac.lecad.si/vaje/wiki/python)
-* ![[3]][3] Podrobneje spoznaj [**Python**](http://up.fmf.uni-lj.si/#uh2_4) ali [Javo](http://up.fmf.uni-lj.si/#uh2_2)
+* ![[3]][3] [Podrobneje spoznaj **Python**](http://up.fmf.uni-lj.si/#uh2_4) ali [Javo](http://up.fmf.uni-lj.si/#uh2_2)
 * ![[3]][4] [**Python** za programerje](http://trac.lecad.si/vaje/raw-attachment/wiki/python/pythonzaprogramerje.pdf)
 
 ### Spletno programiranje ###
