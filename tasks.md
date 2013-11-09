@@ -130,7 +130,7 @@ Toys & Games
 ------------
 You are free to play with any of these educative and illuminative games, but **only during recess**:
 
-* [Vim Snake](http://www.vimsnake.com/) — A game that will increase your **[vim](tasks/advanced_text_editing.html) skills**.
+* [Terminus Game](web.mit.edu/mprat/Public/web/Terminus/Web/main.html) — Explore the world of **command line**.
 * [Sense-Lang games](http://games.sense-lang.org/) — **Typing games** that will help you become a better keyboard user.
 * [T in Y world](http://tinyworld.spacebar.org/)
 * [Hacker.org puzzles](http://www.hacker.org/) — A collection of **puzzle games**.
@@ -141,6 +141,8 @@ You are free to play with any of these educative and illuminative games, but **o
 * [Hacker Project](http://www.hacker-project.com/) — An online **hacking game**.
 * [Great Language Game](http://greatlanguagegame.com/) — How many **languages** can you distinguish between?
 * [Wonderground: A Modern Day Treasure Hunt](http://gewonderground.com) — Explore cities and discover fascinating facts about technology, history and innovation.
+* [Economics Games](economics-games.com/) — Can you sell more than your **market** competitors?
+* [Vim Snake](http://www.vimsnake.com/) — A game that will increase your **[vim](tasks/advanced_text_editing.html) skills**.
 
 
 
