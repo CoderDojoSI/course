@@ -17,7 +17,7 @@ Learn about **JavaScript and programming in general** through these interactive
 tutorials:
 
 * [Programming Basics](http://www.programmingbasics.org/)
-* [CodeCombat](http://www.crunchzilla.com/code-monster)
+* [CodeCombat](http://codecombat.com)
 * [CrunchZilla Code Monster](http://www.crunchzilla.com/code-monster)
 
 Complete **any of the tutorials** and gain a lot of new knowledge!
