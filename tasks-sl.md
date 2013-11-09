@@ -58,6 +58,7 @@ Preberi/Prevedi
 
 Spletni tečaj
 -------------
+* ![[3]][1] [Končno obvladaj **matematiko**](http://astra.si/)
 
 Avdio
 -----
