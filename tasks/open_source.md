@@ -1,3 +1,10 @@
+---
+layout: task
+title: "Open source projects"
+---
+{{ page.title }}
+================
+
 A great way to **reinforce** your **knowledge** and make the **world** a **better** place at
 the same time is to **contribute** to some [Open source](http://en.wikipedia.org/wiki/Open_source) projects.
 
