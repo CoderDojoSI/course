@@ -9,6 +9,7 @@ A great way to **reinforce** your **knowledge** and make the **world** a **bette
 the same time is to **contribute** to some [Open source](http://en.wikipedia.org/wiki/Open_source) projects.
 
 Once you have mastered the Python-foo, you could make yourself **useful** and **contribute**.
+
 * [Python Dev guide](http://docs.python.org/devguide/)
 * [Python mentors](http://pythonmentors.com/)
 
