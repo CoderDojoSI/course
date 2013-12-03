@@ -57,7 +57,8 @@ Follow through with the tutorial on one of these sites:
 
 Below is a great tool for dissecting and learning about Shell commands
 (besides using -h or man). 
-[Explain Shell](http://explainshell.com/)
+
+* [Explain Shell](http://explainshell.com/)
 
 After you're done, **skim through** these pages very briefly:
 
