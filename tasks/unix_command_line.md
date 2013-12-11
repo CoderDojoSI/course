@@ -55,6 +55,11 @@ Follow through with the tutorial on one of these sites:
 * **first six** [UNIX tutorials for beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/),
 * [Learning the shell](http://linuxcommand.org/learning_the_shell.php),
 
+Below is a great tool for dissecting and learning about Shell commands
+(besides using -h or man). 
+
+* [Explain Shell](http://explainshell.com/)
+
 After you're done, **skim through** these pages very briefly:
 
 * [Learn Unix in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)

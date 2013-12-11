@@ -73,6 +73,7 @@ Programming
 ### Real-world problems ###
 * ![[6]][4] [Programming challenges](tasks/programming_problems.html)
 * ![[6]][5] [Hacking challenges](tasks/hacking_challenges.html)
+* ![[6]][5] [Contribute to Open source](tasks/open_source.html)
 * ![[7]][5] [Add functionallity to our **IRC bot**](tasks/irc_bot.html)
 * ![[8]][5] Apply to become a **Debian Maintainer**
 

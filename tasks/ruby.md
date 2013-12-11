@@ -29,3 +29,5 @@ Now, **complete** (at least) one of these courses:
 * [Hackety Hack](http://hackety.com/)
 * [Programming Ruby](http://www.ruby-doc.org/docs/ProgrammingRuby/)
 
+For short bursts of knowledge, take a look at [Code quizzes](http://www.codequizzes.com/).
+You will mostly find Ruby related questions, but you can also learn something about Git, JavaScript, CSS, etc.
