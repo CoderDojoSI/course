@@ -13,6 +13,10 @@ If you know of a suiting title not yet listed, please send us an e-mail.
 
 Programming
 -----------
+* ![][a] [Light-Bot Lite](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
+* ![][a] [Light-Bot Hour of Code](https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc)
+* ![][a]![][$] [Light-Bot](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
+* ![][a] [MYBOT](https://play.google.com/store/apps/details?id=com.anujraghav.mybot)
 * ![][a] [e-Uganke](https://play.google.com/store/apps/details?id=si.fri.euganke)
 * ![][a] [Algoid](https://play.google.com/store/apps/details?id=fr.cyann.algoid)
 * ![][a] [Programmer's Mental Math](https://play.google.com/store/apps/details?id=main.mentalmath)
@@ -24,14 +28,16 @@ Programming
 * ![][i] [Kodable](https://itunes.apple.com/us/app/kodable/id577673067)
 * ![][i]![][$] [Codea](https://itunes.apple.com/us/app/codea/id439571171)
 
-Learn English
--------------
+Learn Languages
+---------------
 * ![][a] [Learn & Play: English](https://play.google.com/store/apps/details?id=free.langame.rivex)
 * ![][a] [Learn English Kids: Videos](https://play.google.com/store/apps/details?id=com.britishcouncil.avonmobility.learnenglishkids)
 * ![][a] [Fun English Learning Games](https://play.google.com/store/apps/details?id=com.pumkin.fun)
 * ![][a] [Anspear Learn English](https://play.google.com/store/apps/details?id=com.anspear.language.englishiap)
 * ![][a] [Learn English Free](https://play.google.com/store/apps/details?id=com.alrwabee.learnenglishfree)
 * ![][a] [Learn English with Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
+* ![][a] [Duolingo: Learn Languages](https://play.google.com/store/apps/details?id=com.duolingo)
+* ![][i] [Duolingo: Learn Languages](https://itunes.apple.com/us/app/duolingo-learn-languages-for/id570060128)
 
 Mathematics
 -----------
