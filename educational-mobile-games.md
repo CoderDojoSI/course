@@ -30,6 +30,8 @@ Programming
 
 Learn Languages
 ---------------
+* ![][a] [Learn
+Chess](https://play.google.com/store/apps/details?id=com.chess&hl=en)
 * ![][a] [Learn & Play: English](https://play.google.com/store/apps/details?id=free.langame.rivex)
 * ![][a] [Learn English Kids: Videos](https://play.google.com/store/apps/details?id=com.britishcouncil.avonmobility.learnenglishkids)
 * ![][a] [Fun English Learning Games](https://play.google.com/store/apps/details?id=com.pumkin.fun)
