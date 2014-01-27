@@ -121,8 +121,8 @@ Hardware
 
 Miscellaneous
 -------------
-* !1[2] [Learn Chess](http://www.chesscademy.com)
-* !1[2] [Play Chess online](http://www.chess.com/)
+* !2[3] [Learn Chess](http://www.chesscademy.com)
+* !2[3] [Play Chess online](http://www.chess.com/)
 * ![[4]][1] [Subscribe to daily **news from all fields of science**](tasks/zeitnews.html)
 * ![[5]][1] [Start your own **blog**!](tasks/blog.html)
 * ![[2]][2] [Become the **Architect**: Design your interior](tasks/interior_design.html)
