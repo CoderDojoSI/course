@@ -36,11 +36,18 @@ Learn Languages
 * ![][a] [Anspear Learn English](https://play.google.com/store/apps/details?id=com.anspear.language.englishiap)
 * ![][a] [Learn English Free](https://play.google.com/store/apps/details?id=com.alrwabee.learnenglishfree)
 * ![][a] [Learn English with Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
+* ![][i] [Funland](https://itunes.apple.com/us/app/funland/id630632324)
+* ![][i] [Monkey Puzzles](https://itunes.apple.com/us/app/monkey-puzzles/id705145024)
+* ![][i] [Monkey Puzzles World Tour](https://itunes.apple.com/us/app/monkey-puzzles-world-tour/id738364486)
 * ![][a] [Duolingo: Learn Languages](https://play.google.com/store/apps/details?id=com.duolingo)
 * ![][i] [Duolingo: Learn Languages](https://itunes.apple.com/us/app/duolingo-learn-languages-for/id570060128)
 
 Mathematics
 -----------
+* ![][a] [Math vs. Undead: Math Workout](https://play.google.com/store/apps/details?id=com.mathvszombies.mathgame)
+* ![][a] [Math Duel: 2-player game](https://play.google.com/store/apps/details?id=com.mathduel2playersgame.mathgame)
+* ![][a] [Math Workout](https://play.google.com/store/apps/details?id=andrei.brusentcov.survivalmath)
+* ![][i] [Sushi Monster](https://itunes.apple.com/us/app/sushi-monster/id512651258)
 * ![][a]![][$] [DragonBox Algebra 5+](https://play.google.com/store/apps/details?id=com.wewanttoknow.DragonBoxPlus)
 * ![][a]![][$] [DragonBox Algebra 12+](https://play.google.com/store/apps/details?id=com.wewanttoknow.DragonBox2)
 * ![][i]![][$] [DragonBox Algebra 5+](https://itunes.apple.com/us/app/dragonbox-algebra-5+/id522069155)
@@ -65,6 +72,7 @@ Inspirational
 Logic
 -----
 * ![][a] [Unblock Me](https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree)
+* ![][a] [Mind Games](https://play.google.com/store/apps/details?id=com.oxothuk.worldpuzzle)
 
 
 [a]: /images/android-icon-16.png "Android"
