@@ -56,7 +56,7 @@ deepen your knowledge (not to mention earn extra points!) by completing also at 
 * [Beginning Game Programming for Teens with Python](http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python)
 * [Introduction to Interactive Programming in Python: Build your own mini-games](https://www.coursera.org/course/interactivepython)
 * [Invent Your Own Computer Games with Python](http://inventwithpython.com/chapters/)
-* [py4fun: Building a GUI Application with Tkinter](http://www.openbookproject.net/py4fun/gui/tkPhone.html)
+* [TkDocs: build high quality Tk user interfaces with Python3](http://www.tkdocs.com/tutorial/)
 * [py4fun: Programming a video game](http://www.openbookproject.net/py4fun/lode/lode.html)
 * [Udacity CS101: Introduction to Computer Science](https://www.udacity.com/course/cs101)
 * *[Udacity CS212: Design of Computer Programs](https://www.udacity.com/course/cs212)
