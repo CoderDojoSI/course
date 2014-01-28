@@ -30,7 +30,6 @@ Programming
 
 Learn Languages
 ---------------
-* ![][a] [Learn Chess](https://play.google.com/store/apps/details?id=com.chess)
 * ![][a] [Learn & Play: English](https://play.google.com/store/apps/details?id=free.langame.rivex)
 * ![][a] [Learn English Kids: Videos](https://play.google.com/store/apps/details?id=com.britishcouncil.avonmobility.learnenglishkids)
 * ![][a] [Fun English Learning Games](https://play.google.com/store/apps/details?id=com.pumkin.fun)
@@ -72,6 +71,8 @@ Inspirational
 
 Logic
 -----
+* ![][a] [Chess.com — play chess with friends](https://play.google.com/store/apps/details?id=com.chess)
+* ![][i] [Chess.com](https://itunes.apple.com/us/app/chess-play-learn/id329218549)
 * ![][a] [Unblock Me](https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree)
 * ![][a] [Mind Games](https://play.google.com/store/apps/details?id=com.oxothuk.worldpuzzle)
 
