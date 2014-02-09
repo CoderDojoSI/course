@@ -26,5 +26,6 @@ Create an account on all these sites:
 * [Duolingo](http://www.duolingo.com/)
 * [Livemocha](http://livemocha.com/)
 * [Memrise](http://www.memrise.com/)
+* [Babadum](http://babadum.com/)
 
 Then use them to learn the language of your choice!
