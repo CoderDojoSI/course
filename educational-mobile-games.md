@@ -66,6 +66,7 @@ Science
 
 Inspirational
 -------------
+* ![][i] [If...](https://itunes.apple.com/us/app/if.../id709306030?mt=8)
 * ![][a] [Origami Instructions](https://play.google.com/store/apps/details?id=com.artelplus.origami)
 * ![][a] [Star Chart](https://play.google.com/store/apps/details?id=com.escapistgames.starchart)
 
