@@ -13,6 +13,10 @@ If you know of a suiting title not yet listed, please send us an e-mail.
 
 Programming
 -----------
+These games should teach the basics concepts in programming,
+like command statements and how the actor (program) follows (executes)
+them, conditional statements, variables, procedures, functions, ...
+
 * ![][a] [Light-Bot Lite](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
 * ![][a] [Light-Bot Hour of Code](https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc)
 * ![][a]![][$] [Light-Bot](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
@@ -28,22 +32,22 @@ Programming
 * ![][i] [Kodable](https://itunes.apple.com/us/app/kodable/id577673067)
 * ![][i]![][$] [Codea](https://itunes.apple.com/us/app/codea/id439571171)
 
-Learn Languages
----------------
-* ![][a] [Learn & Play: English](https://play.google.com/store/apps/details?id=free.langame.rivex)
-* ![][a] [Learn English Kids: Videos](https://play.google.com/store/apps/details?id=com.britishcouncil.avonmobility.learnenglishkids)
-* ![][a] [Fun English Learning Games](https://play.google.com/store/apps/details?id=com.pumkin.fun)
-* ![][a] [Anspear Learn English](https://play.google.com/store/apps/details?id=com.anspear.language.englishiap)
-* ![][a] [Learn English Free](https://play.google.com/store/apps/details?id=com.alrwabee.learnenglishfree)
-* ![][a] [Learn English with Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
-* ![][i] [Funland](https://itunes.apple.com/us/app/funland/id630632324)
-* ![][i] [Monkey Puzzles](https://itunes.apple.com/us/app/monkey-puzzles/id705145024)
-* ![][i] [Monkey Puzzles World Tour](https://itunes.apple.com/us/app/monkey-puzzles-world-tour/id738364486)
-* ![][a] [Duolingo: Learn Languages](https://play.google.com/store/apps/details?id=com.duolingo)
-* ![][i] [Duolingo: Learn Languages](https://itunes.apple.com/us/app/duolingo-learn-languages-for/id570060128)
+Logic
+-----
+These are some great logic puzzles. Play these regularly to ensure your
+mind remains youthfully swift forever.
+
+* ![][a] [Chess.com](https://play.google.com/store/apps/details?id=com.chess_v2) — Play chess online with your friends. And us. ☺
+* ![][i] [Chess.com](https://itunes.apple.com/us/app/chess-play-learn/id329218549)
+* ![][a] [Unblock Car](https://play.google.com/store/apps/details?id=com.ruanshaomin.game)
+* ![][a] [Puzzle Revolution](https://play.google.com/store/apps/details?id=com.stanleylam.puzzle_revolution) — An all-in-one puzzle collection with fun logic brain-teasers.
+* ![][a] [Mind Games](https://play.google.com/store/apps/details?id=com.oxothuk.worldpuzzle)
 
 Mathematics
 -----------
+Facing hard time at school Maths (pre-college level)? Maybe some of
+these can help you catch up.
+
 * ![][a] [Math vs. Undead: Math Workout](https://play.google.com/store/apps/details?id=com.mathvszombies.mathgame)
 * ![][a] [Math Duel: 2-player game](https://play.google.com/store/apps/details?id=com.mathduel2playersgame.mathgame)
 * ![][a] [Math Workout](https://play.google.com/store/apps/details?id=andrei.brusentcov.survivalmath)
@@ -55,6 +59,8 @@ Mathematics
 
 Biology
 -------
+Learn about the living world around us.
+
 * ![][i] [Plant Histology Lite](https://itunes.apple.com/ca/app/plant-histology-lite/id450818648)
 * ![][i] [HudsonAlpha iCell](https://itunes.apple.com/us/app/hudsonalpha-icell/id364882015)
 * ![][i] [3D Cell Simulation and Stain Tool](https://itunes.apple.com/us/app/3d-cell-simulation-stain-tool/id381129413)
@@ -70,13 +76,23 @@ Inspirational
 * ![][a] [Origami Instructions](https://play.google.com/store/apps/details?id=com.artelplus.origami)
 * ![][a] [Star Chart](https://play.google.com/store/apps/details?id=com.escapistgames.starchart)
 
-Logic
------
-* ![][a] [Chess.com — play chess with friends](https://play.google.com/store/apps/details?id=com.chess)
-* ![][i] [Chess.com](https://itunes.apple.com/us/app/chess-play-learn/id329218549)
-* ![][a] [Unblock Me](https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree)
-* ![][a] [Mind Games](https://play.google.com/store/apps/details?id=com.oxothuk.worldpuzzle)
+Learn Languages
+---------------
+Learning English is a must. Learning a third language is a joy.
 
+> _"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."_ — Nelson Mandela
+
+* ![][a] [Learn & Play: English](https://play.google.com/store/apps/details?id=free.langame.rivex)
+* ![][a] [Learn English Kids: Videos](https://play.google.com/store/apps/details?id=com.britishcouncil.avonmobility.learnenglishkids)
+* ![][a] [Fun English Learning Games](https://play.google.com/store/apps/details?id=com.pumkin.fun)
+* ![][a] [Anspear Learn English](https://play.google.com/store/apps/details?id=com.anspear.language.englishiap)
+* ![][a] [Learn English Free](https://play.google.com/store/apps/details?id=com.alrwabee.learnenglishfree)
+* ![][a] [Learn English with Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
+* ![][i] [Funland](https://itunes.apple.com/us/app/funland/id630632324)
+* ![][i] [Monkey Puzzles](https://itunes.apple.com/us/app/monkey-puzzles/id705145024)
+* ![][i] [Monkey Puzzles World Tour](https://itunes.apple.com/us/app/monkey-puzzles-world-tour/id738364486)
+* ![][a] [Duolingo: Learn Languages](https://play.google.com/store/apps/details?id=com.duolingo)
+* ![][i] [Duolingo: Learn Languages](https://itunes.apple.com/us/app/duolingo-learn-languages-for/id570060128)
 
 [a]: /images/android-icon-16.png "Android"
 [i]: /images/ios-icon-16.png "iOS"
