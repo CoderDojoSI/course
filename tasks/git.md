@@ -24,6 +24,8 @@ To get started with Git, follow **at least any two** of these tutorials:
 
 Then, read this [soft intro to Git](http://newcoder.io/begin/save-your-progress/).
 
+If you want to consolidate your knowledge while playing a game, [this is the address for you](https://github.com/hgarc014/git-game).
+
 Having a GitHub account will allow you to:
 
 * host freely your code, projects, and [websites](http://jekyllbootstrap.com/),
