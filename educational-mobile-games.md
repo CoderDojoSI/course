@@ -43,6 +43,13 @@ mind remains youthfully swift forever.
 * ![][a] [Puzzle Revolution](https://play.google.com/store/apps/details?id=com.stanleylam.puzzle_revolution) — An all-in-one puzzle collection with fun logic brain-teasers.
 * ![][a] [Mind Games](https://play.google.com/store/apps/details?id=com.oxothuk.worldpuzzle)
 
+Intelligence
+------------
+Objective intelligence increasing games and tests.
+
+* ![][a] [N-Back Brain](https://play.google.com/store/apps/details?id=phuc.entertainment.dualnback)
+* ![][i] [Dual N-Back](https://itunes.apple.com/us/app/dual-n-back/id512296400?mt=8)
+
 Mathematics
 -----------
 Facing hard time at school Maths (pre-college level)? Maybe some of
