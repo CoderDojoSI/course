@@ -19,11 +19,14 @@ them, conditional statements, variables, procedures, functions, ...
 
 * ![][a] [Light-Bot Lite](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
 * ![][a] [Light-Bot Hour of Code](https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc)
-* ![][a]![][$] [Light-Bot](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
-* ![][a] [MYBOT](https://play.google.com/store/apps/details?id=com.anujraghav.mybot)
+* ![][a] [Coddy](https://play.google.com/store/apps/details?id=com.SimplyProjects.CoddyFree)
+* ![][a] [SpriteBox](https://play.google.com/store/apps/details?id=com.lightbot.SpriteBoxCoding)
+* ![][a] [ScratchJr](https://play.google.com/store/apps/details?id=org.scratchjr.android)
+* ![][a] [Coding Planets](https://play.google.com/store/apps/details?id=com.material.design.codingplanet)
+* ![][a] [The Programmable Car](https://play.google.com/store/apps/details?id=dbuggy.dbuggy)
+* ![][a] [Gladiabots](https://play.google.com/store/apps/details?id=com.GFX47.Gladiabots)
 * ![][a] [e-Uganke](https://play.google.com/store/apps/details?id=si.fri.euganke)
 * ![][a] [Algoid](https://play.google.com/store/apps/details?id=fr.cyann.algoid)
-* ![][a] [Programmer's Mental Math](https://play.google.com/store/apps/details?id=main.mentalmath)
 * ![][i] [Cargo-Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804)
 * ![][i] [Bee-Bot](https://itunes.apple.com/si/app/bee-bot/id500131639)
 * ![][i] [Daisy the Dinosaur](https://itunes.apple.com/in/app/daisy-the-dinosaur/id490514278)
@@ -32,21 +35,18 @@ them, conditional statements, variables, procedures, functions, ...
 * ![][i] [Kodable](https://itunes.apple.com/us/app/kodable/id577673067)
 * ![][i]![][$] [Codea](https://itunes.apple.com/us/app/codea/id439571171)
 
-Logic
------
+Logic, Puzzle & Memory
+-----------------------
 These are some great logic puzzles. Play these regularly to ensure your
 mind remains youthfully swift forever.
 
 * ![][a] [Chess.com](https://play.google.com/store/apps/details?id=com.chess_v2) — Play chess online with your friends. And us. ☺
 * ![][i] [Chess.com](https://itunes.apple.com/us/app/chess-play-learn/id329218549)
 * ![][a] [Unblock Car](https://play.google.com/store/apps/details?id=com.ruanshaomin.game)
+* ![][a] [Infinity Loop](https://play.google.com/store/apps/details?id=com.balysv.loop)
 * ![][a] [Puzzle Revolution](https://play.google.com/store/apps/details?id=com.stanleylam.puzzle_revolution) — An all-in-one puzzle collection with fun logic brain-teasers.
+* ![][a] [100 Logic Games](https://play.google.com/store/apps/details?id=com.andreasabbatini.logicgamestk)
 * ![][a] [Mind Games](https://play.google.com/store/apps/details?id=com.oxothuk.worldpuzzle)
-
-Intelligence
-------------
-Objective intelligence increasing games and tests.
-
 * ![][a] [N-Back Brain](https://play.google.com/store/apps/details?id=phuc.entertainment.dualnback)
 * ![][i] [Dual N-Back](https://itunes.apple.com/us/app/dual-n-back/id512296400?mt=8)
 
