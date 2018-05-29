@@ -1,6 +1,6 @@
 ---
 layout: tasks
-title: Educational kid's games for mobile platforms (Android/iOS)
+title: Educational kids games for mobile (Android/iOS)
 ---
 {{ page.title }}
 ================
